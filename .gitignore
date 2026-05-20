@@ -1,0 +1,12 @@
+.DS_Store
+.obsidian/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Large raw sources — selective inclusion
+wiki/raw/*.pdf
+wiki/raw/*.epub
+!wiki/raw/.gitkeep
