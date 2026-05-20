@@ -1,0 +1,629 @@
+{
+  "39405325": {
+    "pmid": "39405325",
+    "title": "Testing and Evaluation of Health Care Applications of Large Language Models: A Systematic Review.",
+    "pubdate": "2025 Jan 28",
+    "epubdate": "",
+    "source": "JAMA",
+    "authors": [
+      "Bedi S",
+      "Liu Y",
+      "Orr-Ewing L",
+      "Dash D",
+      "Koyejo S",
+      "Callahan A",
+      "Fries JA",
+      "Wornow M",
+      "Swaminathan A",
+      "Lehmann LS",
+      "Hong HJ",
+      "Kashyap M",
+      "Chaurasia AR",
+      "Shah NR",
+      "Singh K",
+      "Tazbaz T",
+      "Milstein A",
+      "Pfeffer MA",
+      "Shah NH"
+    ],
+    "fulljournalname": "JAMA",
+    "doi": "10.1001/jama.2024.21700",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. JAMA. 2025 Jan 28;333(4):319-328. doi: 10.1001/jama.2024.21700.\n\nTesting and Evaluation of Health Care Applications of Large Language Models: A \nSystematic Review.\n\nBedi S(1), Liu Y(2), Orr-Ewing L(2), Dash D(2)(3), Koyejo S(4), Callahan A(3), \nFries JA(3), Wornow M(3), Swaminathan A(3), Lehmann LS(5), Hong HJ(6), Kashyap \nM(7), Chaurasia AR(3), Shah NR(2), Singh K(8), Tazbaz T(9), Milstein A(2), \nPfeffer MA(10), Shah NH(2)(3).\n\nAuthor information:\n(1)Department of Biomedical Data Science, Stanford School of Medicine, Stanford, \nCalifornia.\n(2)Clinical Excellence Research Center, Stanford University, Stanford, \nCalifornia.\n(3)Center for Biomedical Informatics Research, Stanford University, Stanford, \nCalifornia.\n(4)Department of Computer Science, Stanford University, Stanford, California.\n(5)Department of Medicine, Harvard Medical School, Boston, Massachusetts.\n(6)Department of Anesthesiology, Stanford University, Stanford, California.\n(7)Stanford University School of Medicine, Stanford, California.\n(8)Digital Health Innovation, University of California San Diego Health, San \nDiego.\n(9)Digital Health Center of Excellence, US Food and Drug Administration, \nWashington, DC.\n(10)Department of Medicine, Stanford University School of Medicine, Stanford, \nCalifornia.\n\nComment in\n    doi: 10.1001/jama.2024.21451.\n    doi: 10.1001/jama.2024.21772.\n\nIMPORTANCE: Large language models (LLMs) can assist in various health care \nactivities, but current evaluation approaches may not adequately identify the \nmost useful application areas.\nOBJECTIVE: To summarize existing evaluations of LLMs in health care in terms of \n5 components: (1) evaluation data type, (2) health care task, (3) natural \nlanguage processing (NLP) and natural language understanding (NLU) tasks, (4) \ndimension of evaluation, and (5) medical specialty.\nDATA SOURCES: A systematic search of PubMed and Web of Science was performed for \nstudies published between January 1, 2022, and February 19, 2024.\nSTUDY SELECTION: Studies evaluating 1 or more LLMs in health care.\nDATA EXTRACTION AND SYNTHESIS: Three independent reviewers categorized studies \nvia keyword searches based on the data used, the health care tasks, the NLP and \nNLU tasks, the dimensions of evaluation, and the medical specialty.\nRESULTS: Of 519 studies reviewed, published between January 1, 2022, and \nFebruary 19, 2024, only 5% used real patient care data for LLM evaluation. The \nmost common health care tasks were assessing medical knowledge such as answering \nmedical licensing examination questions (44.5%) and making diagnoses (19.5%). \nAdministrative tasks such as assigning billing codes (0.2%) and writing \nprescriptions (0.2%) were less studied. For NLP and NLU tasks, most studies \nfocused on question answering (84.2%), while tasks such as summarization (8.9%) \nand conversational dialogue (3.3%) were infrequent. Almost all studies (95.4%) \nused accuracy as the primary dimension of evaluation; fairness, bias, and \ntoxicity (15.8%), deployment considerations (4.6%), and calibration and \nuncertainty (1.2%) were infrequently measured. Finally, in terms of medical \nspecialty area, most studies were in generic health care applications (25.6%), \ninternal medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with \nnuclear medicine (0.6%), physical medicine (0.4%), and medical genetics (0.2%) \nbeing the least represented.\nCONCLUSIONS AND RELEVANCE: Existing evaluations of LLMs mostly focus on accuracy \nof question answering for medical examinations, without consideration of real \npatient care data. Dimensions such as fairness, bias, and toxicity and \ndeployment considerations received limited attention. Future evaluations should \nadopt standardized applications and metrics, use clinical data, and broaden \nfocus to include a wider range of tasks and specialties.\n\nDOI: 10.1001/jama.2024.21700\nPMCID: PMC11480901\nPMID: 39405325 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflict of Interest Disclosures: Dr Callahan \nreported receiving consultant fees from Atropos Health LLC outside the submitted \nwork. Dr Lehmann reported being formerly employed by Google outside the \nsubmitted work. Dr N. R. Shah reported being co-founder of start-up company for \nAI in health care Qualified Health PBC outside the submitted work. Dr Singh \nreported receiving grants from the National Institute of Diabetes and Digestive \nand Kidney Diseases for their institution, consulting fees from Flatiron Health, \nand grants from Blue Cross Blue Shield of Michigan for their institution outside \nthe submitted work. Dr Milstein reported honoraria for meeting participation \nfrom the Peterson Center of Healthcare, funded by a charitable foundation, \nhaving stock/options from Emsana Health, Amino Health, FNF Advisors, JRSL LLC, \nEmbold, EZPT/Somatic Health, and Prealize outside the submitted work; and being \na member of the Leapfrog Group Board Intermountain Healthcare Board. Dr N. H. \nShah reported being a co-founder of Prealize Health (a predictive analytics \ncompany) and Atropos Health (an on-demand evidence generation company); \nreceiving funding from the Gordon and Betty Moore Foundation for developing \nvirtual model deployments; and being a member of the board of directors of the \nCoalition for Healthcare AI, a consensus-building organization providing \nguidelines for the responsible use of artificial intelligence in health care. No \nother disclosures were reported."
+  },
+  "40335969": {
+    "pmid": "40335969",
+    "title": "Impact of large language model (ChatGPT) in healthcare: an umbrella review and evidence synthesis.",
+    "pubdate": "2025 May 7",
+    "epubdate": "2025 May 7",
+    "source": "J Biomed Sci",
+    "authors": [
+      "Iqbal U",
+      "Tanweer A",
+      "Rahmanti AR",
+      "Greenfield D",
+      "Lee LT",
+      "Li YJ"
+    ],
+    "fulljournalname": "Journal of biomedical science",
+    "doi": "10.1186/s12929-025-01131-z",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. J Biomed Sci. 2025 May 7;32(1):45. doi: 10.1186/s12929-025-01131-z.\n\nImpact of large language model (ChatGPT) in healthcare: an umbrella review and \nevidence synthesis.\n\nIqbal U(1)(2), Tanweer A(3), Rahmanti AR(4)(5), Greenfield D(6), Lee \nLT(7)(8)(9), Li YJ(10)(11)(12).\n\nAuthor information:\n(1)Institute for Evidence-Based Healthcare, Faculty of Health Sciences & \nMedicine, Bond University, Gold Coast, Australia.\n(2)Evidence-Based Practice Professorial Unit, Gold Coast Hospital & Health \nService (GCHHS), Gold Coast, QLD, Australia.\n(3)Department of Nutrition & Dietetics, School of Health Sciences, University of \nManagement and Technology, Lahore, Pakistan.\n(4)Department of Health Policy and Management, Faculty of Medicine, Public \nHealth and Nursing, Universitas Gadjah Mada, Yogyakarta, Indonesia.\n(5)Department of Computer Science, Faculty of Science and Technology, Middlesex \nUniversity, London, UK.\n(6)School of Population Health, Faculty of Medicine and Health, University of \nNew South Wales (UNSW), Sydney, Australia.\n(7)Graduate Institute of Clinical Medicine, Taipei Medical University, Taipei, \nTaiwan.\n(8)Department of Dermatology, Taipei Medical University Hospital, Taipei Medical \nUniversity, Taipei, Taiwan.\n(9)Department of Dermatology, School of Medicine, College of Medicine, Taipei \nMedical University, Taipei, Taiwan.\n(10)Graduate Institute of Biomedical Informatics, College of Medical Science and \nTechnology, Taipei Medical University, Taipei, Taiwan. jack@tmu.edu.tw.\n(11)Department of Dermatology, Taipei Municipal Wanfang Hospital, Taipei Medical \nUniversity, Taipei, Taiwan. jack@tmu.edu.tw.\n(12)International Center for Health Information Technology, Taipei Medical \nUniversity, Taipei, Taiwan. jack@tmu.edu.tw.\n\nBACKGROUND: The emergence of Artificial Intelligence (AI), particularly Chat \nGenerative Pre-Trained Transformer (ChatGPT), a Large Language Model (LLM), in \nhealthcare promises to reshape patient care, clinical decision-making, and \nmedical education. This review aims to synthesise research findings to \nconsolidate the implications of ChatGPT integration in healthcare and identify \nresearch gaps.\nMAIN BODY: The umbrella review was conducted following Preferred Reporting Items \nfor Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The Cochrane \nLibrary, PubMed, Scopus, Web of Science, and Google Scholar were searched from \ninception until February 2024. Due to the heterogeneity of the included studies, \nno quantitative analysis was performed. Instead, information was extracted, \nsummarised, synthesised, and presented in a narrative form. Two reviewers \nundertook title, abstract, and full text screening independently. The \nmethodological quality and overall rating of the included reviews were assessed \nusing the A Measurement Tool to Assess systematic Reviews (AMSTAR-2) checklist. \nThe review examined 17 studies, comprising 15 systematic reviews and 2 \nmeta-analyses, on ChatGPT in healthcare, revealing diverse focuses. The AMSTAR-2 \nassessment identified 5 moderate and 12 low-quality reviews, with deficiencies \nlike study design justification and funding source reporting. The most reported \ntheme that emerged was ChatGPT's use in disease diagnosis or clinical \ndecision-making. While 82.4% of studies focused on its general usage, 17.6% \nexplored unique topics like its role in medical examinations and conducting \nsystematic reviews. Among these, 52.9% targeted general healthcare, with 41.2% \nfocusing on specific domains like radiology, neurosurgery, gastroenterology, \npublic health dentistry, and ophthalmology. ChatGPT's use for manuscript review \nor writing was mentioned in 17.6% of reviews. Promising applications include \nenhancing patient care and clinical decision-making, though ethical, legal, and \naccuracy concerns require cautious integration.\nCONCLUSION: We summarise the identified areas in reviews regarding ChatGPT's \ntransformative impact in healthcare, highlighting patient care, decision-making, \nand medical education. Emphasising the importance of ethical regulations and the \ninvolvement of policymakers, we urge further investigation to ensure the \nreliability of ChatGPT and to promote trust in healthcare and research.\n\n\u00a9 2025. The Author(s).\n\nDOI: 10.1186/s12929-025-01131-z\nPMCID: PMC12057020\nPMID: 40335969 [Indexed for MEDLINE]\n\nConflict of interest statement: Declarations. Ethics approval and consent to \nparticipate: Not applicable. Consent for publication: Not applicable. Competing \ninterests: The authors declare that they have no competing interests."
+  },
+  "39903463": {
+    "pmid": "39903463",
+    "title": "Large Language Models for Chatbot Health Advice Studies: A Systematic Review.",
+    "pubdate": "2025 Feb 3",
+    "epubdate": "2025 Feb 3",
+    "source": "JAMA Netw Open",
+    "authors": [
+      "Huo B",
+      "Boyle A",
+      "Marfo N",
+      "Tangamornsuksan W",
+      "Steen JP",
+      "McKechnie T",
+      "Lee Y",
+      "Mayol J",
+      "Antoniou SA",
+      "Thirunavukarasu AJ",
+      "Sanger S",
+      "Ramji K",
+      "Guyatt G"
+    ],
+    "fulljournalname": "JAMA network open",
+    "doi": "10.1001/jamanetworkopen.2024.57879",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract_full": "1. JAMA Netw Open. 2025 Feb 3;8(2):e2457879. doi: \n10.1001/jamanetworkopen.2024.57879.\n\nLarge Language Models for Chatbot Health Advice Studies: A Systematic Review.\n\nHuo B(1), Boyle A(2), Marfo N(3), Tangamornsuksan W(4), Steen JP(5), McKechnie \nT(1), Lee Y(1), Mayol J(6), Antoniou SA(7), Thirunavukarasu AJ(8), Sanger S(9), \nRamji K(1), Guyatt G(10).\n\nAuthor information:\n(1)Division of General Surgery, Department of Surgery, McMaster University, \nHamilton, Ontario, Canada.\n(2)Michael G. DeGroote School of Medicine, McMaster University, Hamilton, \nOntario, Canada.\n(3)H. Ross University School of Medicine, Miramar, Florida.\n(4)Department of Health Research Methods, Evidence, and Impact, McMaster \nUniversity, Hamilton, Ontario, Canada.\n(5)Institute of Health Policy, Management and Evaluation, University of Toronto, \nToronto, Ontario, Canada.\n(6)Hospital Clinico San Carlos, IdISSC, Universidad Complutense de Madrid, \nMadrid, Spain.\n(7)Department of Surgery, Papageorgiou General Hospital, Thessaloniki, Greece.\n(8)Oxford University Clinical Academic Graduate School, University of Oxford, \nOxford, United Kingdom.\n(9)Health Science Library, Faculty of Health Sciences, McMaster University, \nHamilton, Ontario, Canada.\n(10)Department of Clinical Epidemiology and Biostatistics, McMaster University, \nHamilton, Ontario, Canada.\n\nErratum in\n    JAMA Netw Open. 2025 Mar 3;8(3):e256511. doi: \n10.1001/jamanetworkopen.2025.6511.\n\nIMPORTANCE: There is much interest in the clinical integration of large language \nmodels (LLMs) in health care. Many studies have assessed the ability of LLMs to \nprovide health advice, but the quality of their reporting is uncertain.\nOBJECTIVE: To perform a systematic review to examine the reporting variability \namong peer-reviewed studies evaluating the performance of generative artificial \nintelligence (AI)-driven chatbots for summarizing evidence and providing health \nadvice to inform the development of the Chatbot Assessment Reporting Tool \n(CHART).\nEVIDENCE REVIEW: A search of MEDLINE via Ovid, Embase via Elsevier, and Web of \nScience from inception to October 27, 2023, was conducted with the help of a \nhealth sciences librarian to yield 7752 articles. Two reviewers screened \narticles by title and abstract followed by full-text review to identify primary \nstudies evaluating the clinical accuracy of generative AI-driven chatbots in \nproviding health advice (chatbot health advice studies). Two reviewers then \nperformed data extraction for 137 eligible studies.\nFINDINGS: A total of 137 studies were included. Studies examined topics in \nsurgery (55 [40.1%]), medicine (51 [37.2%]), and primary care (13 [9.5%]). Many \nstudies focused on treatment (91 [66.4%]), diagnosis (60 [43.8%]), or disease \nprevention (29 [21.2%]). Most studies (136 [99.3%]) evaluated inaccessible, \nclosed-source LLMs and did not provide enough information to identify the \nversion of the LLM under evaluation. All studies lacked a sufficient description \nof LLM characteristics, including temperature, token length, fine-tuning \navailability, layers, and other details. Most studies (136 [99.3%]) did not \ndescribe a prompt engineering phase in their study. The date of LLM querying was \nreported in 54 (39.4%) studies. Most studies (89 [65.0%]) used subjective means \nto define the successful performance of the chatbot, while less than one-third \naddressed the ethical, regulatory, and patient safety implications of the \nclinical integration of LLMs.\nCONCLUSIONS AND RELEVANCE: In this systematic review of 137 chatbot health \nadvice studies, the reporting quality was heterogeneous and may inform the \ndevelopment of the CHART reporting standards. Ethical, regulatory, and patient \nsafety considerations are crucial as interest grows in the clinical integration \nof LLMs.\n\nDOI: 10.1001/jamanetworkopen.2024.57879\nPMCID: PMC11795331\nPMID: 39903463 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflict of Interest Disclosures: Dr \nThirunavukarasu reported receiving grants from HealthSense for research \ninvolving large language models outside the submitted work. Dr Ramji reported \nbeing Phelix AI cofounder and medical lead outside the submitted work. No other \ndisclosures were reported."
+  },
+  "40055694": {
+    "pmid": "40055694",
+    "title": "A systematic review of large language model (LLM) evaluations in clinical medicine.",
+    "pubdate": "2025 Mar 7",
+    "epubdate": "2025 Mar 7",
+    "source": "BMC Med Inform Decis Mak",
+    "authors": [
+      "Shool S",
+      "Adimi S",
+      "Saboori Amleshi R",
+      "Bitaraf E",
+      "Golpira R",
+      "Tara M"
+    ],
+    "fulljournalname": "BMC medical informatics and decision making",
+    "doi": "10.1186/s12911-025-02954-4",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. BMC Med Inform Decis Mak. 2025 Mar 7;25(1):117. doi:\n10.1186/s12911-025-02954-4.\n\nA systematic review of large language model (LLM) evaluations in clinical \nmedicine.\n\nShool S(1), Adimi S(2), Saboori Amleshi R(1), Bitaraf E(1), Golpira R(2), Tara \nM(3)(4).\n\nAuthor information:\n(1)Center for Technology and Innovation in Cardiovascular Informatics, Rajaie \nCardiovascular Medical and Research Center, Iran University of Medical Sciences, \nTehran, Iran.\n(2)Rajaie Cardiovascular Medical and Research Center, Iran University of Medical \nSciences, Tehran, 1995614331, Iran.\n(3)Center for Technology and Innovation in Cardiovascular Informatics, Rajaie \nCardiovascular Medical and Research Center, Iran University of Medical Sciences, \nTehran, Iran. smtara@gmail.com.\n(4)Rajaie Cardiovascular Medical and Research Center, Iran University of Medical \nSciences, Tehran, 1995614331, Iran. smtara@gmail.com.\n\nBACKGROUND: Large Language Models (LLMs), advanced AI tools based on transformer \narchitectures, demonstrate significant potential in clinical medicine by \nenhancing decision support, diagnostics, and medical education. However, their \nintegration into clinical workflows requires rigorous evaluation to ensure \nreliability, safety, and ethical alignment.\nOBJECTIVE: This systematic review examines the evaluation parameters and \nmethodologies applied to LLMs in clinical medicine, highlighting their \ncapabilities, limitations, and application trends.\nMETHODS: A comprehensive review of the literature was conducted across PubMed, \nScopus, Web of Science, IEEE Xplore, and arXiv databases, encompassing both \npeer-reviewed and preprint studies. Studies were screened against predefined \ninclusion and exclusion criteria to identify original research evaluating LLM \nperformance in medical contexts.\nRESULTS: The results reveal a growing interest in leveraging LLM tools in \nclinical settings, with 761 studies meeting the inclusion criteria. While \ngeneral-domain LLMs, particularly ChatGPT and GPT-4, dominated evaluations \n(93.55%), medical-domain LLMs accounted for only 6.45%. Accuracy emerged as the \nmost commonly assessed parameter (21.78%). Despite these advancements, the \nevidence base highlights certain limitations and biases across the included \nstudies, emphasizing the need for careful interpretation and robust evaluation \nframeworks.\nCONCLUSIONS: The exponential growth in LLM research underscores their \ntransformative potential in healthcare. However, addressing challenges such as \nethical risks, evaluation variability, and underrepresentation of critical \nspecialties will be essential. Future efforts should prioritize standardized \nframeworks to ensure safe, effective, and equitable LLM integration in clinical \npractice.\n\n\u00a9 2025. The Author(s).\n\nDOI: 10.1186/s12911-025-02954-4\nPMCID: PMC11889796\nPMID: 40055694 [Indexed for MEDLINE]\n\nConflict of interest statement: Declarations. Ethics approval and consent to \nparticipate: Not applicable. Consent for publication: Not applicable. Competing \ninterests: The authors declare no competing interests."
+  },
+  "40021099": {
+    "pmid": "40021099",
+    "title": "Large language models for conducting systematic reviews: on the rise, but not yet ready for use-a scoping review.",
+    "pubdate": "2025 May",
+    "epubdate": "2025 Feb 26",
+    "source": "J Clin Epidemiol",
+    "authors": [
+      "Lieberum JL",
+      "Toews M",
+      "Metzendorf MI",
+      "Heilmeyer F",
+      "Siemens W",
+      "Haverkamp C",
+      "B\u00f6hringer D",
+      "Meerpohl JJ",
+      "Eisele-Metzger A"
+    ],
+    "fulljournalname": "Journal of clinical epidemiology",
+    "doi": "10.1016/j.jclinepi.2025.111746",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. J Clin Epidemiol. 2025 May;181:111746. doi: 10.1016/j.jclinepi.2025.111746.\nEpub  2025 Feb 26.\n\nLarge language models for conducting systematic reviews: on the rise, but not \nyet ready for use-a scoping review.\n\nLieberum JL(1), Toews M(2), Metzendorf MI(3), Heilmeyer F(4), Siemens W(2), \nHaverkamp C(4), B\u00f6hringer D(1), Meerpohl JJ(5), Eisele-Metzger A(6).\n\nAuthor information:\n(1)Eye Clinic, Medical Center - University of Freiburg/Medical Faculty - \nUniversity of Freiburg, Freiburg, Germany.\n(2)Institute for Evidence in Medicine, Medical Center - University of \nFreiburg/Medical Faculty - University of Freiburg, Freiburg, Germany.\n(3)Institute of General Practice, Medical Faculty of the \nHeinrich-Heine-University D\u00fcsseldorf, D\u00fcsseldorf, Germany.\n(4)Institute for Digitalization in Medicine, Medical Center - University of \nFreiburg/Medical Faculty - University of Freiburg, Freiburg, Germany.\n(5)Institute for Evidence in Medicine, Medical Center - University of \nFreiburg/Medical Faculty - University of Freiburg, Freiburg, Germany; Cochrane \nGermany, Cochrane Germany Foundation, Freiburg, Germany.\n(6)Institute for Evidence in Medicine, Medical Center - University of \nFreiburg/Medical Faculty - University of Freiburg, Freiburg, Germany; Cochrane \nGermany, Cochrane Germany Foundation, Freiburg, Germany. Electronic address: \nangelika.eisele-metzger@uniklinik-freiburg.de.\n\nBACKGROUND AND OBJECTIVES: Machine learning promises versatile help in the \ncreation of systematic reviews (SRs). Recently, further developments in the form \nof large language models (LLMs) and their application in SR conduct attracted \nattention. We aimed at providing an overview of LLM applications in SR conduct \nin health research.\nMETHODS: We systematically searched MEDLINE, Web of Science, IEEEXplore, ACM \nDigital Library, Europe PMC (preprints), Google Scholar, and conducted an \nadditional hand search (last search: February 26, 2024). We included scientific \narticles in English or German, published from April 2021 onwards, building upon \nthe results of a mapping review that has not yet identified LLM applications to \nsupport SRs. Two reviewers independently screened studies for eligibility; after \npiloting, 1 reviewer extracted data, checked by another.\nRESULTS: Our database search yielded 8054 hits, and we identified 33 articles \nfrom our hand search. We finally included 37 articles on LLM support. LLM \napproaches covered 10 of 13 defined SR steps, most frequently literature search \n(n = 15, 41%), study selection (n = 14, 38%), and data extraction (n = 11, 30%). \nThe mostly recurring LLM was Generative Pretrained Transformer (GPT) (n = 33, \n89%). Validation studies were predominant (n = 21, 57%). In half of the studies, \nauthors evaluated LLM use as promising (n = 20, 54%), one-quarter as neutral (n \n= 9, 24%) and one-fifth as nonpromising (n = 8, 22%).\nCONCLUSION: Although LLMs show promise in supporting SR creation, fully \nestablished or validated applications are often lacking. The rapid increase in \nresearch on LLMs for evidence synthesis production highlights their growing \nrelevance.\nPLAIN LANGUAGE SUMMARY: Systematic reviews are a crucial tool in health research \nwhere experts carefully collect and analyze all available evidence on a specific \nresearch question. Creating these reviews is typically time- and \nresource-intensive, often taking months or even years to complete, as \nresearchers must thoroughly search, evaluate, and synthesize an immense number \nof scientific studies. For the present article, we conducted a review to \nunderstand how new artificial intelligence (AI) tools, specifically large \nlanguage models (LLMs) like Generative Pretrained Transformer (GPT), can be used \nto help create systematic reviews in health research. We searched multiple \nscientific databases and finally found 37 relevant articles. We found that LLMs \nhave been tested to help with various parts of the systematic review process, \nparticularly in 3 main areas: searching scientific literature (41% of studies), \nselecting relevant studies (38%), and extracting important information from \nthese studies (30%). GPT was the most commonly used LLM, appearing in 89% of the \nstudies. Most of the research (57%) focused on testing whether these AI tools \nactually work as intended in this context of systematic review production. The \nresults were mixed: about half of the studies found LLMs promising, a quarter \nwere neutral, and one-fifth found them not promising. While LLMs show potential \nfor making the systematic review process more efficient, there is still a lack \nof fully tested and validated applications. However, the increasing number of \nstudies in this field suggests that these AI tools are becoming increasingly \nimportant in creating systematic reviews.\n\nCopyright \u00a9 2025 The Author(s). Published by Elsevier Inc. All rights reserved.\n\nDOI: 10.1016/j.jclinepi.2025.111746\nPMID: 40021099 [Indexed for MEDLINE]\n\nConflict of interest statement: Declaration of competing interest There are no \ncompeting interests for any author."
+  },
+  "38462064": {
+    "pmid": "38462064",
+    "title": "Evaluation of ChatGPT-generated medical responses: A systematic review and meta-analysis.",
+    "pubdate": "2024 Mar",
+    "epubdate": "2024 Mar 8",
+    "source": "J Biomed Inform",
+    "authors": [
+      "Wei Q",
+      "Yao Z",
+      "Cui Y",
+      "Wei B",
+      "Jin Z",
+      "Xu X"
+    ],
+    "fulljournalname": "Journal of biomedical informatics",
+    "doi": "10.1016/j.jbi.2024.104620",
+    "pubtype": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. J Biomed Inform. 2024 Mar;151:104620. doi: 10.1016/j.jbi.2024.104620. Epub\n2024  Mar 8.\n\nEvaluation of ChatGPT-generated medical responses: A systematic review and \nmeta-analysis.\n\nWei Q(1), Yao Z(2), Cui Y(3), Wei B(4), Jin Z(5), Xu X(6).\n\nAuthor information:\n(1)Big Data Center for Children's Medical Care, Children's Hospital of Chongqing \nMedical University, Chongqing, China; Children Nutrition Research Center, \nChildren's Hospital of Chongqing Medical University, Chongqing, China; National \nClinical Research Center for Child Health and Disorders, Ministry of Education \nKey Laboratory of Child Development and Disorders, China International Science \nand Technology Cooperation Base of Child Development and Critical Disorders, \nChongqing Key Laboratory of Child Neurodevelopment and Cognitive Disorders, \nChongqing, China.\n(2)Department of Neurology, Children's Hospital of Chongqing Medical University, \nChongqing, China.\n(3)Department of Biomedical Data Science, Stanford University School of \nMedicine, Stanford, CA, USA.\n(4)Department of Global Statistics and Data Science, BeiGene USA Inc., San \nMateo, CA, USA.\n(5)Department of Biostatistics, Mailman School of Public Health, Columbia \nUniversity, New York, NY, USA.\n(6)Big Data Center for Children's Medical Care, Children's Hospital of Chongqing \nMedical University, Chongqing, China.\n\nOBJECTIVE: Large language models (LLMs) such as ChatGPT are increasingly \nexplored in medical domains. However, the absence of standard guidelines for \nperformance evaluation has led to methodological inconsistencies. This study \naims to summarize the available evidence on evaluating ChatGPT's performance in \nanswering medical questions and provide direction for future research.\nMETHODS: An extensive literature search was conducted on June 15, 2023, across \nten medical databases. The keyword used was \"ChatGPT,\" without restrictions on \npublication type, language, or date. Studies evaluating ChatGPT's performance in \nanswering medical questions were included. Exclusions comprised review articles, \ncomments, patents, non-medical evaluations of ChatGPT, and preprint studies. \nData was extracted on general study characteristics, question sources, \nconversation processes, assessment metrics, and performance of ChatGPT. An \nevaluation framework for LLM in medical inquiries was proposed by integrating \ninsights from selected literature. This study is registered with PROSPERO, \nCRD42023456327.\nRESULTS: A total of 3520 articles were identified, of which 60 were reviewed and \nsummarized in this paper and 17 were included in the meta-analysis. ChatGPT \ndisplayed an overall integrated accuracy of 56\u00a0% (95\u00a0% CI: 51\u00a0%-60\u00a0%, I2\u00a0=\u00a087\u00a0%) \nin addressing medical queries. However, the studies varied in question resource, \nquestion-asking process, and evaluation metrics. As per our proposed evaluation \nframework, many studies failed to report methodological details, such as the \ndate of inquiry, version of ChatGPT, and inter-rater consistency.\nCONCLUSION: This review reveals ChatGPT's potential in addressing medical \ninquiries, but the heterogeneity of the study design and insufficient reporting \nmight affect the results' reliability. Our proposed evaluation framework \nprovides insights for the future study design and transparent reporting of LLM \nin responding to medical questions.\n\nCopyright \u00a9 2024 Elsevier Inc. All rights reserved.\n\nDOI: 10.1016/j.jbi.2024.104620\nPMID: 38462064 [Indexed for MEDLINE]\n\nConflict of interest statement: Declaration of competing interest The authors \ndeclare that they have no known competing financial interests or personal \nrelationships that could have appeared to influence the work reported in this \npaper."
+  },
+  "39546795": {
+    "pmid": "39546795",
+    "title": "Examining the Role of Large Language Models in Orthopedics: Systematic Review.",
+    "pubdate": "2024 Nov 15",
+    "epubdate": "2024 Nov 15",
+    "source": "J Med Internet Res",
+    "authors": [
+      "Zhang C",
+      "Liu S",
+      "Zhou X",
+      "Zhou S",
+      "Tian Y",
+      "Wang S",
+      "Xu N",
+      "Li W"
+    ],
+    "fulljournalname": "Journal of medical Internet research",
+    "doi": "10.2196/59607",
+    "pubtype": [
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "abstract_full": "1. J Med Internet Res. 2024 Nov 15;26:e59607. doi: 10.2196/59607.\n\nExamining the Role of Large Language Models in Orthopedics: Systematic Review.\n\nZhang C(#)(1)(2)(3), Liu S(#)(1)(2)(3), Zhou X(4), Zhou S(1)(2)(3), Tian \nY(1)(2)(3), Wang S(1)(2)(3), Xu N(#)(1)(2)(3), Li W(#)(1)(2)(3).\n\nAuthor information:\n(1)Department of Orthopaedics, Peking University Third Hospital, Beijing, China.\n(2)Engineering Research Center of Bone and Joint Precision Medicine, Ministry of \nEducation, Beijing, China.\n(3)Beijing Key Laboratory of Spinal Disease Research, Beijing, China.\n(4)Peking University Health Science Center, Beijing, China.\n(#)Contributed equally\n\nBACKGROUND: Large language models (LLMs) can understand natural language and \ngenerate corresponding text, images, and even videos based on prompts, which \nholds great potential in medical scenarios. Orthopedics is a significant branch \nof medicine, and orthopedic diseases contribute to a significant socioeconomic \nburden, which could be alleviated by the application of LLMs. Several pioneers \nin orthopedics have conducted research on LLMs across various subspecialties to \nexplore their performance in addressing different issues. However, there are \ncurrently few reviews and summaries of these studies, and a systematic summary \nof existing research is absent.\nOBJECTIVE: The objective of this review was to comprehensively summarize \nresearch findings on the application of LLMs in the field of orthopedics and \nexplore the potential opportunities and challenges.\nMETHODS: PubMed, Embase, and Cochrane Library databases were searched from \nJanuary 1, 2014, to February 22, 2024, with the language limited to English. The \nterms, which included variants of \"large language model,\" \"generative artificial \nintelligence,\" \"ChatGPT,\" and \"orthopaedics,\" were divided into 2 categories: \nlarge language model and orthopedics. After completing the search, the study \nselection process was conducted according to the inclusion and exclusion \ncriteria. The quality of the included studies was assessed using the revised \nCochrane risk-of-bias tool for randomized trials and CONSORT-AI (Consolidated \nStandards of Reporting Trials-Artificial Intelligence) guidance. Data extraction \nand synthesis were conducted after the quality assessment.\nRESULTS: A total of 68 studies were selected. The application of LLMs in \northopedics involved the fields of clinical practice, education, research, and \nmanagement. Of these 68 studies, 47 (69%) focused on clinical practice, 12 (18%) \naddressed orthopedic education, 8 (12%) were related to scientific research, and \n1 (1%) pertained to the field of management. Of the 68 studies, only 8 (12%) \nrecruited patients, and only 1 (1%) was a high-quality randomized controlled \ntrial. ChatGPT was the most commonly mentioned LLM tool. There was considerable \nheterogeneity in the definition, measurement, and evaluation of the LLMs' \nperformance across the different studies. For diagnostic tasks alone, the \naccuracy ranged from 55% to 93%. When performing disease classification tasks, \nChatGPT with GPT-4's accuracy ranged from 2% to 100%. With regard to answering \nquestions in orthopedic examinations, the scores ranged from 45% to 73.6% due to \ndifferences in models and test selections.\nCONCLUSIONS: LLMs cannot replace orthopedic professionals in the short term. \nHowever, using LLMs as copilots could be a potential approach to effectively \nenhance work efficiency at present. More high-quality clinical trials are needed \nin the future, aiming to identify optimal applications of LLMs and advance \northopedics toward higher efficiency and precision.\n\n\u00a9Cheng Zhang, Shanshan Liu, Xingyu Zhou, Siyu Zhou, Yinglun Tian, Shenglin Wang, \nNanfang Xu, Weishi Li. Originally published in the Journal of Medical Internet \nResearch (https://www.jmir.org), 15.11.2024.\n\nDOI: 10.2196/59607\nPMCID: PMC11607553\nPMID: 39546795 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "39534227": {
+    "pmid": "39534227",
+    "title": "Large language models in patient education: a scoping review of applications in medicine.",
+    "pubdate": "2024",
+    "epubdate": "2024 Oct 29",
+    "source": "Front Med (Lausanne)",
+    "authors": [
+      "Aydin S",
+      "Karabacak M",
+      "Vlachos V",
+      "Margetis K"
+    ],
+    "fulljournalname": "Frontiers in medicine",
+    "doi": "10.3389/fmed.2024.1477898",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. Front Med (Lausanne). 2024 Oct 29;11:1477898. doi: 10.3389/fmed.2024.1477898. \neCollection 2024.\n\nLarge language models in patient education: a scoping review of applications in \nmedicine.\n\nAydin S(1), Karabacak M(2), Vlachos V(3), Margetis K(2).\n\nAuthor information:\n(1)School of Medicine, Ko\u00e7 University, Istanbul, T\u00fcrkiye.\n(2)Department of Neurosurgery, Mount Sinai Health System, New York, NY, United \nStates.\n(3)College of Human Ecology, Cornell University, Ithaca, NY, United States.\n\nINTRODUCTION: Large Language Models (LLMs) are sophisticated algorithms that \nanalyze and generate vast amounts of textual data, mimicking human \ncommunication. Notable LLMs include GPT-4o by Open AI, Claude 3.5 Sonnet by \nAnthropic, and Gemini by Google. This scoping review aims to synthesize the \ncurrent applications and potential uses of LLMs in patient education and \nengagement.\nMATERIALS AND METHODS: Following the PRISMA-ScR checklist and methodologies by \nArksey, O'Malley, and Levac, we conducted a scoping review. We searched PubMed \nin June 2024, using keywords and MeSH terms related to LLMs and patient \neducation. Two authors conducted the initial screening, and discrepancies were \nresolved by consensus. We employed thematic analysis to address our primary \nresearch question.\nRESULTS: The review identified 201 studies, predominantly from the United States \n(58.2%). Six themes emerged: generating patient education materials, \ninterpreting medical information, providing lifestyle recommendations, \nsupporting customized medication use, offering perioperative care instructions, \nand optimizing doctor-patient interaction. LLMs were found to provide accurate \nresponses to patient queries, enhance existing educational materials, and \ntranslate medical information into patient-friendly language. However, \nchallenges such as readability, accuracy, and potential biases were noted.\nDISCUSSION: LLMs demonstrate significant potential in patient education and \nengagement by creating accessible educational materials, interpreting complex \nmedical information, and enhancing communication between patients and healthcare \nproviders. Nonetheless, issues related to the accuracy and readability of \nLLM-generated content, as well as ethical concerns, require further research and \ndevelopment. Future studies should focus on improving LLMs and ensuring content \nreliability while addressing ethical considerations.\n\nCopyright \u00a9 2024 Aydin, Karabacak, Vlachos and Margetis.\n\nDOI: 10.3389/fmed.2024.1477898\nPMCID: PMC11554522\nPMID: 39534227\n\nConflict of interest statement: The authors declare that the research was \nconducted in the absence of any commercial or financial relationships that could \nbe construed as a potential conflict of interest."
+  },
+  "39651543": {
+    "pmid": "39651543",
+    "title": "Large Language Models in Traditional Chinese Medicine: A Scoping Review.",
+    "pubdate": "2025 Mar",
+    "epubdate": "2024 Dec 9",
+    "source": "J Evid Based Med",
+    "authors": [
+      "Ren Y",
+      "Luo X",
+      "Wang Y",
+      "Li H",
+      "Zhang H",
+      "Li Z",
+      "Lai H",
+      "Li X",
+      "Ge L",
+      "Estill J",
+      "Zhang L",
+      "Yang S",
+      "Chen Y",
+      "Wen C",
+      "Bian Z"
+    ],
+    "fulljournalname": "Journal of evidence-based medicine",
+    "doi": "10.1111/jebm.12658",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. J Evid Based Med. 2025 Mar;18(1):e12658. doi: 10.1111/jebm.12658. Epub 2024\nDec  9.\n\nLarge Language Models in Traditional Chinese Medicine: A Scoping Review.\n\nRen Y(1), Luo X(2)(3)(4)(5), Wang Y(6), Li H(6), Zhang H(2)(3), Li Z(7), Lai \nH(8)(9), Li X(10)(11), Ge L(8)(9), Estill J(2)(12), Zhang L(7), Yang S(1), Chen \nY(2)(3)(4)(5)(6), Wen C(10)(11), Bian Z(13); ADVANCED Working Group.\n\nAuthor information:\n(1)School of Intelligent Medicine, Chengdu University of Traditional Chinese \nMedicine, Chengdu, China.\n(2)Research Unit of Evidence-Based Evaluation and Guidelines, Chinese Academy of \nMedical Sciences (2021RU017), School of Basic Medical Sciences, Lanzhou \nUniversity, Lanzhou, China.\n(3)Key Laboratory of Evidence-Based Medicine of Gansu Province, Lanzhou, China.\n(4)Institute of Health Data Science, Lanzhou University, Lanzhou, China.\n(5)WHO Collaborating Center for Guideline Implementation and Knowledge \nTranslation, Lanzhou, China.\n(6)School of Public Health, Lanzhou University, Lanzhou, China.\n(7)Department of Computer Science, Hong Kong Baptist University, Hong Kong, \nChina.\n(8)Department of Health Policy and Health Management, School of Public Health, \nLanzhou University, Lanzhou, China.\n(9)Evidence-Based Social Science Research Center, School of Public Health, \nLanzhou University, Lanzhou, China.\n(10)College of Basic Medical Sciences, Zhejiang Chinese Medical University, \nHangzhou, China.\n(11)Key Laboratory of Chinese Medicine Rheumatology of Zhejiang Province, \nHangzhou, China.\n(12)Institute of Global Health, University of Geneva, Geneva, Switzerland.\n(13)School of Chinese Medicine, Hong Kong Baptist University, Hong Kong, China.\n\nBACKGROUND: The application of large language models (LLMs) in medicine has \nreceived increasing attention, showing significant potential in teaching, \nresearch, and clinical practice, especially in knowledge extraction, management, \nand understanding. However, the use of LLMs in Traditional Chinese Medicine \n(TCM) has not been thoroughly studied. This study aims to provide a \ncomprehensive overview of the status and challenges of LLM applications in TCM.\nMETHODS: A systematic search of five electronic databases and Google Scholar was \nconducted between November 2022 and April 2024, using the Arksey and O'Malley \nfive-stage framework to identify relevant studies. Data from eligible studies \nwere comprehensively extracted and organized to describe LLM applications in TCM \nand assess their performance accuracy.\nRESULTS: A total of 29 studies were identified: 24 peer-reviewed articles, 1 \nreview, and 4 preprints. Two core application areas were found: the extraction, \nmanagement, and understanding of TCM knowledge, and assisted diagnosis and \ntreatment. LLMs developed specifically for TCM achieved 70% accuracy in the TCM \nPractitioner Exam, while general-purpose Chinese LLMs achieved 60% accuracy. \nCommon international LLMs did not pass the exam. Models like EpidemicCHAT and \nMedChatZH, trained on customized TCM corpora, outperformed general LLMs in TCM \nconsultation.\nCONCLUSION: Despite their potential, LLMs in TCM face challenges such as data \nquality and security issues, the specificity and complexity of TCM data, and the \nnonquantitative nature of TCM diagnosis and treatment. Future efforts should \nfocus on interdisciplinary talent cultivation, enhanced data standardization and \nprotection, and exploring LLM potential in multimodal interaction and \nintelligent diagnosis and treatment.\n\n\u00a9 2024 Chinese Cochrane Center, West China Hospital of Sichuan University and \nJohn Wiley & Sons Australia, Ltd.\n\nDOI: 10.1111/jebm.12658\nPMID: 39651543 [Indexed for MEDLINE]"
+  },
+  "37219445": {
+    "pmid": "37219445",
+    "title": "Standalone AI for Breast Cancer Detection at Screening Digital Mammography and Digital Breast Tomosynthesis: A Systematic Review and Meta-Analysis.",
+    "pubdate": "2023 Jun",
+    "epubdate": "2023 May 23",
+    "source": "Radiology",
+    "authors": [
+      "Yoon JH",
+      "Strand F",
+      "Baltzer PAT",
+      "Conant EF",
+      "Gilbert FJ",
+      "Lehman CD",
+      "Morris EA",
+      "Mullen LA",
+      "Nishikawa RM",
+      "Sharma N",
+      "Vejborg I",
+      "Moy L",
+      "Mann RM"
+    ],
+    "fulljournalname": "Radiology",
+    "doi": "10.1148/radiol.222639",
+    "pubtype": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "Journal Article"
+    ],
+    "abstract_full": "1. Radiology. 2023 Jun;307(5):e222639. doi: 10.1148/radiol.222639. Epub 2023 May \n23.\n\nStandalone AI for Breast Cancer Detection at Screening Digital Mammography and \nDigital Breast Tomosynthesis: A Systematic Review and Meta-Analysis.\n\nYoon JH(1), Strand F(1), Baltzer PAT(1), Conant EF(1), Gilbert FJ(1), Lehman \nCD(1), Morris EA(1), Mullen LA(1), Nishikawa RM(1), Sharma N(1), Vejborg I(1), \nMoy L(#)(1), Mann RM(#)(1).\n\nAuthor information:\n(1)From the Department of Radiology, Severance Hospital, Research Institute of \nRadiological Science, Yonsei University, College of Medicine, 50 Yonsei-ro, \nSeodaemun-gu, 03722 Seoul, Korea (J.H.Y.); Department of Oncology and Pathology, \nKarolinska Institute, Stockholm, Sweden (F.S.); Department of Radiology, Unit of \nBreast Imaging, Karolinska University Hospital, Stockholm, Sweden (F.S.); \nDepartment of Biomedical Imaging and Image-guided Therapy, Medical University of \nVienna, Vienna, Austria (P.A.T.B.); Department of Radiology, University of \nPennsylvania, Philadelphia, Pa (E.F.C.); Department of Radiology, University of \nCambridge, Cambridge, UK (F.J.G.); Department of Radiology, Harvard Medical \nSchool, Massachusetts General Hospital, Boston, Mass (C.D.L.); Department of \nRadiology, University of California Davis, Davis, Calif (E.A.M.); Department of \nRadiology, Breast Imaging Division, Johns Hopkins Medicine, Baltimore, Md \n(L.A.M.); Department of Radiology, University of Pittsburgh, UPMC Magee-Womens \nHospital, Pittsburgh, Pa (R.M.N.); Department of Radiology, St James Hospital, \nLeeds, UK (N.S.); Department of Breast Examinations, Copenhagen University \nHospital Herlev-Gentofte, Copenhagen, Denmark (I.V.); Department of Radiology, \nLaura and Isaac Perlmutter Cancer Center, Center for Biomedical Imaging, Center \nfor Advanced Imaging Innovation and Research, New York University Grossman \nSchool of Medicine, New York, NY (L.M.); Department of Medical Imaging, Radboud \nUniversity Medical Center, Nijmegen, the Netherlands (R.M.M.); and Department of \nRadiology, Netherlands Cancer Institute, Amsterdam, the Netherlands (R.M.M.).\n(#)Contributed equally\n\nComment in\n    Radiology. 2023 Jun;307(5):e230935. doi: 10.1148/radiol.230935.\n\nBackground There is considerable interest in the potential use of artificial \nintelligence (AI) systems in mammographic screening. However, it is essential to \ncritically evaluate the performance of AI before it can become a modality used \nfor independent mammographic interpretation. Purpose To evaluate the reported \nstandalone performances of AI for interpretation of digital mammography and \ndigital breast tomosynthesis (DBT). Materials and Methods A systematic search \nwas conducted in PubMed, Google Scholar, Embase (Ovid), and Web of Science \ndatabases for studies published from January 2017 to June 2022. Sensitivity, \nspecificity, and area under the receiver operating characteristic curve (AUC) \nvalues were reviewed. Study quality was assessed using the Quality Assessment of \nDiagnostic Accuracy Studies 2 and Comparative (QUADAS-2 and QUADAS-C, \nrespectively). A random effects meta-analysis and meta-regression analysis were \nperformed for overall studies and for different study types (reader studies vs \nhistoric cohort studies) and imaging techniques (digital mammography vs DBT). \nResults In total, 16 studies that include 1\u2009108\u2009328 examinations in 497\u2009091 \nwomen were analyzed (six reader studies, seven historic cohort studies on \ndigital mammography, and four studies on DBT). Pooled AUCs were significantly \nhigher for standalone AI than radiologists in the six reader studies on digital \nmammography (0.87 vs 0.81, P = .002), but not for historic cohort studies (0.89 \nvs 0.96, P = .152). Four studies on DBT showed significantly higher AUCs in AI \ncompared with radiologists (0.90 vs 0.79, P < .001). Higher sensitivity and \nlower specificity were seen for standalone AI compared with radiologists. \nConclusion Standalone AI for screening digital mammography performed as well as \nor better than radiologists. Compared with digital mammography, there is an \ninsufficient number of studies to assess the performance of AI systems in the \ninterpretation of DBT screening examinations. \u00a9 RSNA, 2023 Supplemental material \nis available for this article. See also the editorial by Scaranelo in this \nissue.\n\nDOI: 10.1148/radiol.222639\nPMCID: PMC10315526\nPMID: 37219445 [Indexed for MEDLINE]\n\nConflict of interest statement: Disclosures of conflicts of interest: J.H.Y. No \nrelevant relationships. F.S. Grants or contracts from Region Stockholm and \nSwedish Breast Cancer Association; speaker fees from Lunit. P.A.T.B. Secretary \ngeneral and executive board member of European Society of Breast Imaging \n(EUSOBI). E.F.C. Grants or contracts from iCAD, OM1, National Institutes of \nHealth (NIH), and National Cancer Institute; consulting fees from iCAD; lecture \npayments from Hologic, MedScape, and Aunt Minnie; meeting and/or travel support \nfrom the RSNA; University of Pennsylvania patents planned, issued, or pending; \nleadership role at Society of Breast Imaging. F.J.G. Grants or contracts from \nLunit, Bayer, Hologic, and GE Healthcare; consulting fees from Alphabet and \nKheiron; lecture payment and receipt of equipment from GE Healthcare; president, \nEUSOBI. C.D.L. Grants or contracts from Breast Cancer Research Foundation, NIH, \nGE Healthcare, and Hologic; consulting fees from Clairity; meeting travel \nsupport from GE Healthcare, Hologic, and Clairity; co-founder of Clairity. \nE.A.M. Grants or contracts from Komen; lecture payments from Bayer and Guerbet; \nadvisory board, Bracco and Kheiron; stockholder, Kheiron and Reveal Pharma. \nL.A.M. Research funding from IBM and Cepheid; consulting fees and/or honoraria \nfrom Hologic; chair of Diversity and Inclusion Committee, Maryland Radiological \nSociety. R.M.N. Institutional grants or contracts from GE Healthcare, Koios \nMedical, Hologic, and iCAD; royalties from Hologic; consulting fees from \nmaiData; advisory board, iCAD. N.S. Lecture payments from BARD and Hologic. I.V. \nNo relevant relationships. L.M. Editor of Radiology; grants or contracts from \nSiemens Foundation, Gordon and Betty Moore Foundation, Mary Kay Foundation, and \nGoogle; consulting fees from Guerbet and iCAD; meeting and/or travel support \nfrom British Society of Breast Radiology and European Society of Breast Imaging; \nboard member of Society of Breast Imaging and International Society for Magnetic \nResonance in Medicine; stockholder, Lunit. R.M.M. Associate editor of breast \nimaging for Radiology; grants or contracts from Dutch Research Council, Dutch \nCancer Society, European Union, Siemens Healthineers, Bayer Healthcare, \nBeckton-Dickinson, Medtronic, Screenpoint Medical, Lunit, Koning, and PA \nImaging; royalties from Elsevier; consulting fees from Bayer, Guerbet, Siemens, \nScreenpoint Medical, and Beckton-Dickinson; lecture payments from Siemens, \nBayer, and Beckton-Dickinson; data safety monitoring board for SMALL trial; \nexecutive board member, EUSOBI; research committee member, ESR Advisory; \neditorial board member for European Radiology, advisory board member, Dutch \nCancer Society; clinical advisory board member, Oncode Institute."
+  },
+  "38728687": {
+    "pmid": "38728687",
+    "title": "The Role of Large Language Models in Transforming Emergency Medicine: Scoping Review.",
+    "pubdate": "2024 May 10",
+    "epubdate": "2024 May 10",
+    "source": "JMIR Med Inform",
+    "authors": [
+      "Preiksaitis C",
+      "Ashenburg N",
+      "Bunney G",
+      "Chu A",
+      "Kabeer R",
+      "Riley F",
+      "Ribeira R",
+      "Rose C"
+    ],
+    "fulljournalname": "JMIR medical informatics",
+    "doi": "10.2196/53787",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. JMIR Med Inform. 2024 May 10;12:e53787. doi: 10.2196/53787.\n\nThe Role of Large Language Models in Transforming Emergency Medicine: Scoping \nReview.\n\nPreiksaitis C(1), Ashenburg N(1), Bunney G(1), Chu A(1), Kabeer R(1), Riley \nF(1), Ribeira R(1), Rose C(1).\n\nAuthor information:\n(1)Department of Emergency Medicine, Stanford University School of Medicine, \nPalo Alto, CA, United States.\n\nBACKGROUND: Artificial intelligence (AI), more specifically large language \nmodels (LLMs), holds significant potential in revolutionizing emergency care \ndelivery by optimizing clinical workflows and enhancing the quality of \ndecision-making. Although enthusiasm for integrating LLMs into emergency \nmedicine (EM) is growing, the existing literature is characterized by a \ndisparate collection of individual studies, conceptual analyses, and preliminary \nimplementations. Given these complexities and gaps in understanding, a cohesive \nframework is needed to comprehend the existing body of knowledge on the \napplication of LLMs in EM.\nOBJECTIVE: Given the absence of a comprehensive framework for exploring the \nroles of LLMs in EM, this scoping review aims to systematically map the existing \nliterature on LLMs' potential applications within EM and identify directions for \nfuture research. Addressing this gap will allow for informed advancements in the \nfield.\nMETHODS: Using PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and \nMeta-Analyses extension for Scoping Reviews) criteria, we searched Ovid MEDLINE, \nEmbase, Web of Science, and Google Scholar for papers published between January \n2018 and August 2023 that discussed LLMs' use in EM. We excluded other forms of \nAI. A total of 1994 unique titles and abstracts were screened, and each \nfull-text paper was independently reviewed by 2 authors. Data were abstracted \nindependently, and 5 authors performed a collaborative quantitative and \nqualitative synthesis of the data.\nRESULTS: A total of 43 papers were included. Studies were predominantly from \n2022 to 2023 and conducted in the United States and China. We uncovered four \nmajor themes: (1) clinical decision-making and support was highlighted as a \npivotal area, with LLMs playing a substantial role in enhancing patient care, \nnotably through their application in real-time triage, allowing early \nrecognition of patient urgency; (2) efficiency, workflow, and information \nmanagement demonstrated the capacity of LLMs to significantly boost operational \nefficiency, particularly through the automation of patient record synthesis, \nwhich could reduce administrative burden and enhance patient-centric care; (3) \nrisks, ethics, and transparency were identified as areas of concern, especially \nregarding the reliability of LLMs' outputs, and specific studies highlighted the \nchallenges of ensuring unbiased decision-making amidst potentially flawed \ntraining data sets, stressing the importance of thorough validation and ethical \noversight; and (4) education and communication possibilities included LLMs' \ncapacity to enrich medical training, such as through using simulated patient \ninteractions that enhance communication skills.\nCONCLUSIONS: LLMs have the potential to fundamentally transform EM, enhancing \nclinical decision-making, optimizing workflows, and improving patient outcomes. \nThis review sets the stage for future advancements by identifying key research \nareas: prospective validation of LLM applications, establishing standards for \nresponsible use, understanding provider and patient perceptions, and improving \nphysicians' AI literacy. Effective integration of LLMs into EM will require \ncollaborative efforts and thorough evaluation to ensure these technologies can \nbe safely and effectively applied.\n\n\u00a9Carl Preiksaitis, Nicholas Ashenburg, Gabrielle Bunney, Andrew Chu, Rana \nKabeer, Fran Riley, Ryan Ribeira, Christian Rose. Originally published in JMIR \nMedical Informatics (https://medinform.jmir.org), 10.05.2024.\n\nDOI: 10.2196/53787\nPMCID: PMC11127144\nPMID: 38728687\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "38801765": {
+    "pmid": "38801765",
+    "title": "Advances in the Application of AI Robots in Critical Care: Scoping Review.",
+    "pubdate": "2024 May 27",
+    "epubdate": "2024 May 27",
+    "source": "J Med Internet Res",
+    "authors": [
+      "Li Y",
+      "Wang M",
+      "Wang L",
+      "Cao Y",
+      "Liu Y",
+      "Zhao Y",
+      "Yuan R",
+      "Yang M",
+      "Lu S",
+      "Sun Z",
+      "Zhou F",
+      "Qian Z",
+      "Kang H"
+    ],
+    "fulljournalname": "Journal of medical Internet research",
+    "doi": "10.2196/54095",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract_full": "1. J Med Internet Res. 2024 May 27;26:e54095. doi: 10.2196/54095.\n\nAdvances in the Application of AI Robots in Critical Care: Scoping Review.\n\nLi Y(#)(1)(2), Wang M(#)(1)(2), Wang L(#)(1)(2), Cao Y(#)(3), Liu Y(1)(2), Zhao \nY(2), Yuan R(1)(2), Yang M(2), Lu S(4), Sun Z(4), Zhou F(2), Qian Z(4)(5)(6), \nKang H(2).\n\nAuthor information:\n(1)Medical School of Chinese PLA, Beijing, China.\n(2)The First Medical Centre, Chinese PLA General Hospital, Beijing, China.\n(3)The Second Hospital, Hebei Medical University, Hebei, China.\n(4)Beidou Academic & Research Center, Beidou Life Science, Guangzhou, China.\n(5)Department of Radiation Oncology, Fujian Medical University Union Hospital, \nFujian, China.\n(6)The Seventh Affiliated Hospital, Sun Yat-sen University, Shenzhen, China.\n(#)Contributed equally\n\nBACKGROUND: In recent epochs, the field of critical medicine has experienced \nsignificant advancements due to the integration of artificial intelligence (AI). \nSpecifically, AI robots have evolved from theoretical concepts to being actively \nimplemented in clinical trials and applications. The intensive care unit (ICU), \nknown for its reliance on a vast amount of medical information, presents a \npromising avenue for the deployment of robotic AI, anticipated to bring \nsubstantial improvements to patient care.\nOBJECTIVE: This review aims to comprehensively summarize the current state of AI \nrobots in the field of critical care by searching for previous studies, \ndevelopments, and applications of AI robots related to ICU wards. In addition, \nit seeks to address the ethical challenges arising from their use, including \nconcerns related to safety, patient privacy, responsibility delineation, and \ncost-benefit analysis.\nMETHODS: Following the scoping review framework proposed by Arksey and O'Malley \nand the PRISMA (Preferred Reporting Items for Systematic Reviews and \nMeta-Analyses) guidelines, we conducted a scoping review to delineate the \nbreadth of research in this field of AI robots in ICU and reported the findings. \nThe literature search was carried out on May 1, 2023, across 3 databases: \nPubMed, Embase, and the IEEE Xplore Digital Library. Eligible publications were \ninitially screened based on their titles and abstracts. Publications that passed \nthe preliminary screening underwent a comprehensive review. Various research \ncharacteristics were extracted, summarized, and analyzed from the final \npublications.\nRESULTS: Of the 5908 publications screened, 77 (1.3%) underwent a full review. \nThese studies collectively spanned 21 ICU robotics projects, encompassing their \nsystem development and testing, clinical trials, and approval processes. Upon an \nexpert-reviewed classification framework, these were categorized into 5 main \ntypes: therapeutic assistance robots, nursing assistance robots, rehabilitation \nassistance robots, telepresence robots, and logistics and disinfection robots. \nMost of these are already widely deployed and commercialized in ICUs, although a \nselect few remain under testing. All robotic systems and tools are engineered to \ndeliver more personalized, convenient, and intelligent medical services to \npatients in the ICU, concurrently aiming to reduce the substantial workload on \nICU medical staff and promote therapeutic and care procedures. This review \nfurther explored the prevailing challenges, particularly focusing on ethical and \nsafety concerns, proposing viable solutions or methodologies, and illustrating \nthe prospective capabilities and potential of AI-driven robotic technologies in \nthe ICU environment. Ultimately, we foresee a pivotal role for robots in a \nfuture scenario of a fully automated continuum from admission to discharge \nwithin the ICU.\nCONCLUSIONS: This review highlights the potential of AI robots to transform ICU \ncare by improving patient treatment, support, and rehabilitation processes. \nHowever, it also recognizes the ethical complexities and operational challenges \nthat come with their implementation, offering possible solutions for future \ndevelopment and optimization.\n\n\u00a9Yun Li, Min Wang, Lu Wang, Yuan Cao, Yuyan Liu, Yan Zhao, Rui Yuan, Mengmeng \nYang, Siqian Lu, Zhichao Sun, Feihu Zhou, Zhirong Qian, Hongjun Kang. Originally \npublished in the Journal of Medical Internet Research (https://www.jmir.org), \n27.05.2024.\n\nDOI: 10.2196/54095\nPMCID: PMC11165292\nPMID: 38801765 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40489764": {
+    "pmid": "40489764",
+    "title": "Large Language Models in Medical Diagnostics: Scoping Review With Bibliometric Analysis.",
+    "pubdate": "2025 Jun 9",
+    "epubdate": "2025 Jun 9",
+    "source": "J Med Internet Res",
+    "authors": [
+      "Su H",
+      "Sun Y",
+      "Li R",
+      "Zhang A",
+      "Yang Y",
+      "Xiao F",
+      "Duan Z",
+      "Chen J",
+      "Hu Q",
+      "Yang T",
+      "Xu B",
+      "Zhang Q",
+      "Zhao J",
+      "Li Y",
+      "Li H"
+    ],
+    "fulljournalname": "Journal of medical Internet research",
+    "doi": "10.2196/72062",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. J Med Internet Res. 2025 Jun 9;27:e72062. doi: 10.2196/72062.\n\nLarge Language Models in Medical Diagnostics: Scoping Review With Bibliometric \nAnalysis.\n\nSu H(#)(1)(2)(3), Sun Y(#)(1)(2), Li R(4), Zhang A(3), Yang Y(1)(2)(3), Xiao \nF(5), Duan Z(1)(2), Chen J(1)(2), Hu Q(1)(2), Yang T(1)(2), Xu B(1)(2), Zhang \nQ(1)(2), Zhao J(1)(2), Li Y(1)(2), Li H(1)(2).\n\nAuthor information:\n(1)Department of Reproductive Medicine, Xiangya Hospital Central South \nUniversity, Changsha, China.\n(2)Clinical Research Center for Women's Reproductive Health in Hunan Province, \nChangsha, China.\n(3)Xiangya School of Medicine, Central South University, Changsha, China.\n(4)School of Biomedical Sciences and Engineering, South China University of \nTechnology, Guangzhou, China.\n(5)Department of Metabolism and Endocrinology, Second Xiangya Hospital of \nCentral South University, Changsha, China.\n(#)Contributed equally\n\nBACKGROUND: The integration of large language models (LLMs) into medical \ndiagnostics has garnered substantial attention due to their potential to enhance \ndiagnostic accuracy, streamline clinical workflows, and address health care \ndisparities. However, the rapid evolution of LLM research necessitates a \ncomprehensive synthesis of their applications, challenges, and future \ndirections.\nOBJECTIVE: This scoping review aimed to provide an overview of the current state \nof research regarding the use of LLMs in medical diagnostics. The study sought \nto answer four primary subquestions, as follows: (1) Which LLMs are commonly \nused? (2) How are LLMs assessed in diagnosis? (3) What is the current \nperformance of LLMs in diagnosing diseases? (4) Which medical domains are \ninvestigating the application of LLMs?\nMETHODS: This scoping review was conducted according to the Joanna Briggs \nInstitute Manual for Evidence Synthesis and adheres to the PRISMA-ScR (Preferred \nReporting Items for Systematic Reviews and Meta-Analyses extension for Scoping \nReviews). Relevant literature was searched from the Web of Science, PubMed, \nEmbase, IEEE Xplore, and ACM Digital Library databases from 2022 to 2025. \nArticles were screened and selected based on predefined inclusion and exclusion \ncriteria. Bibliometric analysis was performed using VOSviewer to identify major \nresearch clusters and trends. Data extraction included details on LLM types, \napplication domains, and performance metrics.\nRESULTS: The field is rapidly expanding, with a surge in publications after \n2023. GPT-4 and its variants dominated research (70/95, 74% of studies), \nfollowed by GPT-3.5 (34/95, 36%). Key applications included disease \nclassification (text or image-based), medical question answering, and diagnostic \ncontent generation. LLMs demonstrated high accuracy in specialties like \nradiology, psychiatry, and neurology but exhibited biases in race, gender, and \ncost predictions. Ethical concerns, including privacy risks and model \nhallucination, alongside regulatory fragmentation, were critical barriers to \nclinical adoption.\nCONCLUSIONS: LLMs hold transformative potential for medical diagnostics but \nrequire rigorous validation, bias mitigation, and multimodal integration to \naddress real-world complexities. Future research should prioritize explainable \nartificial intelligence frameworks, specialty-specific optimization, and \ninternational regulatory harmonization to ensure equitable and safe clinical \ndeployment.\n\n\u00a9Hankun Su, Yuanyuan Sun, Ruiting Li, Aozhe Zhang, Yuemeng Yang, Fen Xiao, \nZhiying Duan, Jingjing Chen, Qin Hu, Tianli Yang, Bin Xu, Qiong Zhang, Jing \nZhao, Yanping Li, Hui Li. Originally published in the Journal of Medical \nInternet Research (https://www.jmir.org), 09.06.2025.\n\nDOI: 10.2196/72062\nPMCID: PMC12186007\nPMID: 40489764 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40153782": {
+    "pmid": "40153782",
+    "title": "Large Language Model Applications for Health Information Extraction in Oncology: Scoping Review.",
+    "pubdate": "2025 Mar 28",
+    "epubdate": "2025 Mar 28",
+    "source": "JMIR Cancer",
+    "authors": [
+      "Chen D",
+      "Alnassar SA",
+      "Avison KE",
+      "Huang RS",
+      "Raman S"
+    ],
+    "fulljournalname": "JMIR cancer",
+    "doi": "10.2196/65984",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. JMIR Cancer. 2025 Mar 28;11:e65984. doi: 10.2196/65984.\n\nLarge Language Model Applications for Health Information Extraction in Oncology: \nScoping Review.\n\nChen D(1), Alnassar SA(2), Avison KE(2), Huang RS(1), Raman S(3).\n\nAuthor information:\n(1)Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada.\n(2)Department of Systems Design Engineering, University of Waterloo, Waterloo, \nON, Canada.\n(3)Department of Radiation Oncology, BC Cancer Vancouver, 600 W 10th Ave, \nVancouver, BC, V5Z 4E6, Canada, 1 416-946-4501.\n\nBACKGROUND: Natural language processing systems for data extraction from \nunstructured clinical text require expert-driven input for labeled annotations \nand model training. The natural language processing competency of large language \nmodels (LLM) can enable automated data extraction of important patient \ncharacteristics from electronic health records, which is useful for accelerating \ncancer clinical research and informing oncology care.\nOBJECTIVE: This scoping review aims to map the current landscape, including \ndefinitions, frameworks, and future directions of LLMs applied to data \nextraction from clinical text in oncology.\nMETHODS: We queried Ovid MEDLINE for primary, peer-reviewed research studies \npublished since 2000 on June 2, 2024, using oncology- and LLM-related keywords. \nThis scoping review included studies that evaluated the performance of an LLM \napplied to data extraction from clinical text in oncology contexts. Study \nattributes and main outcomes were extracted to outline key trends of research in \nLLM-based data extraction.\nRESULTS: The literature search yielded 24 studies for inclusion. The majority of \nstudies assessed original and fine-tuned variants of the BERT LLM (n=18, 75%) \nfollowed by the Chat-GPT conversational LLM (n=6, 25%). LLMs for data extraction \nwere commonly applied in pan-cancer clinical settings (n=11, 46%), followed by \nbreast (n=4, 17%), and lung (n=4, 17%) cancer contexts, and were evaluated using \nmulti-institution datasets (n=18, 75%). Comparing the studies published in \n2022-2024 versus 2019-2021, both the total number of studies (18 vs 6) and the \nproportion of studies using prompt engineering increased (5/18, 28% vs 0/6, 0%), \nwhile the proportion using fine-tuning decreased (8/18, 44.4% vs 6/6, 100%). \nAdvantages of LLMs included positive data extraction performance and reduced \nmanual workload.\nCONCLUSIONS: LLMs applied to data extraction in oncology can serve as useful \nautomated tools to reduce the administrative burden of reviewing patient health \nrecords and increase time for patient-facing care. Recent advances in \nprompt-engineering and fine-tuning methods, and multimodal data extraction \npresent promising directions for future research. Further studies are needed to \nevaluate the performance of LLM-enabled data extraction in clinical domains \nbeyond the training dataset and to assess the scope and integration of LLMs into \nreal-world clinical environments.\n\n\u00a9 David Chen, Saif Addeen Alnassar, Kate Elizabeth Avison, Ryan S Huang, \nSrinivas Raman. Originally published in JMIR Cancer (https://cancer.jmir.org).\n\nDOI: 10.2196/65984\nPMCID: PMC11970800\nPMID: 40153782 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40373033": {
+    "pmid": "40373033",
+    "title": "Evaluating Generative AI in Mental Health: Systematic Review of Capabilities and Limitations.",
+    "pubdate": "2025 May 15",
+    "epubdate": "2025 May 15",
+    "source": "JMIR Ment Health",
+    "authors": [
+      "Wang L",
+      "Bhanushali T",
+      "Huang Z",
+      "Yang J",
+      "Badami S",
+      "Hightow-Weidman L"
+    ],
+    "fulljournalname": "JMIR mental health",
+    "doi": "10.2196/70014",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. JMIR Ment Health. 2025 May 15;12:e70014. doi: 10.2196/70014.\n\nEvaluating Generative AI in Mental Health: Systematic Review of Capabilities and \nLimitations.\n\nWang L(1)(2), Bhanushali T(3), Huang Z(4), Yang J(5), Badami S(3), \nHightow-Weidman L(1).\n\nAuthor information:\n(1)Institute on Digital Health and Innovation, College of Nursing, Florida State \nUniversity, 222 S Copeland St, Tallahassee, FL, 32306, United States, 1 (850) \n644-3296.\n(2)Center of Population Sciences for Health Equity, College of Nursing, Florida \nState University, Tallahassee, FL, United States.\n(3)College of Arts and Sciences, University of Washington, Seattle, WA, United \nStates.\n(4)Khoury College of Computer Sciences, Northeastern University, Boston, MA, \nUnited States.\n(5)Teachers College, Columbia University, New York, NY, United States.\n\nBACKGROUND: The global shortage of mental health professionals, exacerbated by \nincreasing mental health needs post COVID-19, has stimulated growing interest in \nleveraging large language models to address these challenges.\nOBJECTIVES: This systematic review aims to evaluate the current capabilities of \ngenerative artificial intelligence (GenAI) models in the context of mental \nhealth applications.\nMETHODS: A comprehensive search across 5 databases yielded 1046 references, of \nwhich 8 studies met the inclusion criteria. The included studies were original \nresearch with experimental designs (eg, Turing tests, sociocognitive tasks, \ntrials, or qualitative methods); a focus on GenAI models; and explicit \nmeasurement of sociocognitive abilities (eg, empathy and emotional awareness), \nmental health outcomes, and user experience (eg, perceived trust and empathy).\nRESULTS: The studies, published between 2023 and 2024, primarily evaluated \nmodels such as ChatGPT-3.5 and 4.0, Bard, and Claude in tasks such as \npsychoeducation, diagnosis, emotional awareness, and clinical interventions. \nMost studies used zero-shot prompting and human evaluators to assess the AI \nresponses, using standardized rating scales or qualitative analysis. However, \nthese methods were often insufficient to fully capture the complexity of GenAI \ncapabilities. The reliance on single-shot prompting techniques, limited \ncomparisons, and task-based assessments isolated from a context may oversimplify \nGenAI's abilities and overlook the nuances of human-artificial intelligence \ninteraction, especially in clinical applications that require contextual \nreasoning and cultural sensitivity. The findings suggest that while GenAI models \ndemonstrate strengths in psychoeducation and emotional awareness, their \ndiagnostic accuracy, cultural competence, and ability to engage users \nemotionally remain limited. Users frequently reported concerns about \ntrustworthiness, accuracy, and the lack of emotional engagement.\nCONCLUSIONS: Future research could use more sophisticated evaluation methods, \nsuch as few-shot and chain-of-thought prompting to fully uncover GenAI's \npotential. Longitudinal studies and broader comparisons with human benchmarks \nare needed to explore the effects of GenAI-integrated mental health care.\n\n\u00a9 Liying Wang, Tanmay Bhanushali, Zhuoran Huang, Jingyi Yang, Sukriti Badami, \nLisa Hightow-Weidman. Originally published in JMIR Mental Health \n(https://mental.jmir.org).\n\nDOI: 10.2196/70014\nPMCID: PMC12097452\nPMID: 40373033 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40225559": {
+    "pmid": "40225559",
+    "title": "Artificial intelligence in chronic kidney disease management: a scoping review.",
+    "pubdate": "2025",
+    "epubdate": "2025 Mar 21",
+    "source": "Theranostics",
+    "authors": [
+      "Sabanayagam C",
+      "Banu R",
+      "Lim C",
+      "Tham YC",
+      "Cheng CY",
+      "Tan G",
+      "Ekinci E",
+      "Sheng B",
+      "McKay G",
+      "Shaw JE",
+      "Matsushita K",
+      "Tangri N",
+      "Choo J",
+      "Wong TY"
+    ],
+    "fulljournalname": "Theranostics",
+    "doi": "10.7150/thno.108552",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. Theranostics. 2025 Mar 21;15(10):4566-4578. doi: 10.7150/thno.108552. \neCollection 2025.\n\nArtificial intelligence in chronic kidney disease management: a scoping review.\n\nSabanayagam C(1)(2)(3), Banu R(1), Lim C(4), Tham YC(1)(2)(5), Cheng \nCY(1)(2)(5), Tan G(1)(2), Ekinci E(6), Sheng B(7), McKay G(8), Shaw JE(9), \nMatsushita K(10), Tangri N(11), Choo J(4), Wong TY(1)(12).\n\nAuthor information:\n(1)Singapore Eye Research Institute, Singapore National Eye Centre, Singapore.\n(2)Ophthalmology and Visual Science Academic Clinical Program, Duke-NUS Medical \nSchool, Singapore.\n(3)Saw Swee Hock School of Public Health, National University of Singapore, \nSingapore.\n(4)Department of Renal Medicine, Singapore General Hospital, Singapore.\n(5)Department of Ophthalmology, Yong Loo Lin School of Medicine, National \nUniversity of Singapore, Singapore.\n(6)Department of Medicine, Melbourne Medical School, The University of \nMelbourne, Australia and Department of Endocrinology, Austin Health, Melbourne, \nAustralia.\n(7)Department of Computer Science and Engineering, Shanghai Jiao Tong \nUniversity, Shanghai, China.\n(8)Centre for Public Health, Queen's University Belfast, Northern Ireland, \nUnited Kingdom.\n(9)Baker Heart and Diabetes Institute, Melbourne, Victoria, Australia.\n(10)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, \nBaltimore, Maryland, USA.\n(11)Department of Medicine and Community Health Sciences, University of \nManitoba, Winnipeg, Manitoba, Canada.\n(12)School of Clinical Medicine, Beijing Tsinghua Changgung Hospital, Tsinghua \nMedicine, Tsinghua University, Beijing, China.\n\nRationale: Chronic kidney disease (CKD) is a major public health problem \nworldwide associated with cardiovascular disease, renal failure, and mortality. \nTo effectively address this growing burden, innovative solutions to management \nare urgently required. We conducted a scoping review to identify key use cases \nin which artificial intelligence (AI) could be leveraged for improving \nmanagement of CKD. Additionally, we examined the challenges faced by AI in CKD \nmanagement, proposed potential solutions to overcome these barriers. Methods: We \nreviewed 41 articles published between 2014-2024 which examined various AI \ntechniques including machine learning (ML) and deep learning (DL), unsupervised \nclustering, digital twin, natural language processing (NLP) and large language \nmodels (LLMs) in CKD management. We focused on four areas: early detection, risk \nstratification and prediction, treatment recommendations and patient care and \ncommunication. Results: We identified 41 articles published between 2014-2024 \nthat assessed image-based DL models for early detection (n = 6), ML models for \nrisk stratification and prediction (n = 14) and treatment recommendations (n = \n4), and NLP and LLMs for patient care and communication (n = 17). Key challenges \nin integrating AI models into healthcare include technical issues such as data \nquality and access, model accuracy, and interpretability, alongside adoption \nbarriers like workflow integration, user training, and regulatory approval. \nConclusions: There is tremendous potential of integrating AI into clinical care \nof CKD patients to enable early detection, prediction, and improved patient \noutcomes. Collaboration among healthcare providers, researchers, regulators, and \nindustries is crucial to developing robust protocols that ensure compliance with \nlegal standards, while minimizing risks and maintaining patient safety.\n\n\u00a9 The author(s).\n\nDOI: 10.7150/thno.108552\nPMCID: PMC11984408\nPMID: 40225559 [Indexed for MEDLINE]\n\nConflict of interest statement: Competing Interests: The authors have declared \nthat no competing interest exists."
+  },
+  "38214966": {
+    "pmid": "38214966",
+    "title": "Automated Paper Screening for Clinical Reviews Using Large Language Models: Data Analysis Study.",
+    "pubdate": "2024 Jan 12",
+    "epubdate": "2024 Jan 12",
+    "source": "J Med Internet Res",
+    "authors": [
+      "Guo E",
+      "Gupta M",
+      "Deng J",
+      "Park YJ",
+      "Paget M",
+      "Naugler C"
+    ],
+    "fulljournalname": "Journal of medical Internet research",
+    "doi": "10.2196/48996",
+    "pubtype": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract_full": "1. J Med Internet Res. 2024 Jan 12;26:e48996. doi: 10.2196/48996.\n\nAutomated Paper Screening for Clinical Reviews Using Large Language Models: Data \nAnalysis Study.\n\nGuo E(1), Gupta M(1), Deng J(2), Park YJ(2), Paget M(1), Naugler C(1).\n\nAuthor information:\n(1)Cumming School of Medicine, University of Calgary, Calgary, AB, Canada.\n(2)Temerty Faculty of Medicine, University of Toronto, Toronto, AB, Canada.\n\nBACKGROUND: The systematic review of clinical research papers is a \nlabor-intensive and time-consuming process that often involves the screening of \nthousands of titles and abstracts. The accuracy and efficiency of this process \nare critical for the quality of the review and subsequent health care decisions. \nTraditional methods rely heavily on human reviewers, often requiring a \nsignificant investment of time and resources.\nOBJECTIVE: This study aims to assess the performance of the OpenAI generative \npretrained transformer (GPT) and GPT-4 application programming interfaces (APIs) \nin accurately and efficiently identifying relevant titles and abstracts from \nreal-world clinical review data sets and comparing their performance against \nground truth labeling by 2 independent human reviewers.\nMETHODS: We introduce a novel workflow using the Chat GPT and GPT-4 APIs for \nscreening titles and abstracts in clinical reviews. A Python script was created \nto make calls to the API with the screening criteria in natural language and a \ncorpus of title and abstract data sets filtered by a minimum of 2 human \nreviewers. We compared the performance of our model against human-reviewed \npapers across 6 review papers, screening over 24,000 titles and abstracts.\nRESULTS: Our results show an accuracy of 0.91, a macro F1-score of 0.60, a \nsensitivity of excluded papers of 0.91, and a sensitivity of included papers of \n0.76. The interrater variability between 2 independent human screeners was \n\u03ba=0.46, and the prevalence and bias-adjusted \u03ba between our proposed methods and \nthe consensus-based human decisions was \u03ba=0.96. On a randomly selected subset of \npapers, the GPT models demonstrated the ability to provide reasoning for their \ndecisions and corrected their initial decisions upon being asked to explain \ntheir reasoning for incorrect classifications.\nCONCLUSIONS: Large language models have the potential to streamline the clinical \nreview process, save valuable time and effort for researchers, and contribute to \nthe overall quality of clinical reviews. By prioritizing the workflow and acting \nas an aid rather than a replacement for researchers and reviewers, models such \nas GPT-4 can enhance efficiency and lead to more accurate and reliable \nconclusions in medical research.\n\n\u00a9Eddie Guo, Mehul Gupta, Jiawen Deng, Ye-Jean Park, Michael Paget, Christopher \nNaugler. Originally published in the Journal of Medical Internet Research \n(https://www.jmir.org), 12.01.2024.\n\nDOI: 10.2196/48996\nPMCID: PMC10818236\nPMID: 38214966 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40540146": {
+    "pmid": "40540146",
+    "title": "The rise of robotics and AI-assisted surgery in modern healthcare.",
+    "pubdate": "2025 Jun 20",
+    "epubdate": "2025 Jun 20",
+    "source": "J Robot Surg",
+    "authors": [
+      "Wah JNK"
+    ],
+    "fulljournalname": "Journal of robotic surgery",
+    "doi": "10.1007/s11701-025-02485-0",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "abstract_full": "1. J Robot Surg. 2025 Jun 20;19(1):311. doi: 10.1007/s11701-025-02485-0.\n\nThe rise of robotics and AI-assisted surgery in modern healthcare.\n\nWah JNK(1)(2).\n\nAuthor information:\n(1)Multimedia University, Cyberjaya, Malaysia. ngkokwah@mmu.edu.my.\n(2)Persiaran Multimedia, 63100, Cyberjaya, Selangor, Malaysia. \nngkokwah@mmu.edu.my.\n\nThe integration of robotics and artificial intelligence (AI) in surgery \nrepresents a transformative advancement in modern healthcare, promising enhanced \nprecision, efficiency, and patient outcomes. Recent studies indicate a rapid \nadoption of AI-assisted robotic surgery across various surgical specialties, \ndriven by improvements in accuracy and reduced complication rates. The research \nsynthesizes findings from 25 recent peer-reviewed studies (2024-2025) on \nAI-driven robotic surgery. Systematic review and meta-analyses were conducted \nfocusing on clinical efficacy, surgical precision, complication rates, and \neconomic impacts. Quantitative data were extracted from retrospective trials, \ncohort studies, and systematic reviews to evaluate outcomes compared to manual \nsurgical techniques. AI-assisted robotic surgeries demonstrated a 25% reduction \nin operative time and a 30% decrease in intraoperative complications compared to \nmanual methods. Surgical precision improved by 40%, reflected in enhanced \ntargeting accuracy during tumor resections and implant placements. Patient \nrecovery times were shortened by an average of 15%, with lower postoperative \npain scores. Additionally, studies reported an average 20% increase in surgeon \nworkflow efficiency and a 10% reduction in healthcare costs over the \nconventional procedures. AI-enhanced robotic surgery significantly improves \nsurgical outcomes through higher precision and efficiency, supporting widespread \nclinical adoption. Despite upfront costs and ethical concerns, continued \ninnovation and integration promise substantial benefits for patient safety and \nhealthcare resource optimization. Future research should focus on long-term \npatient outcomes and addressing ethical and training challenges.\n\n\u00a9 2025. The Author(s).\n\nDOI: 10.1007/s11701-025-02485-0\nPMCID: PMC12181090\nPMID: 40540146 [Indexed for MEDLINE]\n\nConflict of interest statement: Declarations. Ethics approval and consent to \nparticipate: Not applicable. Consent for publication: Not applicable. Competing \ninterests: The authors declare no competing interests."
+  },
+  "39322406": {
+    "pmid": "39322406",
+    "title": "Software using artificial intelligence for nodule and cancer detection in CT lung cancer screening: systematic review of test accuracy studies.",
+    "pubdate": "2024 Oct 16",
+    "epubdate": "2024 Oct 16",
+    "source": "Thorax",
+    "authors": [
+      "Geppert J",
+      "Asgharzadeh A",
+      "Brown A",
+      "Stinton C",
+      "Helm EJ",
+      "Jayakody S",
+      "Todkill D",
+      "Gallacher D",
+      "Ghiasvand H",
+      "Patel M",
+      "Auguste P",
+      "Tsertsvadze A",
+      "Chen YF",
+      "Grove A",
+      "Shinkins B",
+      "Clarke A",
+      "Taylor-Phillips S"
+    ],
+    "fulljournalname": "Thorax",
+    "doi": "10.1136/thorax-2024-221662",
+    "pubtype": [
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "abstract_full": "1. Thorax. 2024 Oct 16;79(11):1040-1049. doi: 10.1136/thorax-2024-221662.\n\nSoftware using artificial intelligence for nodule and cancer detection in CT \nlung cancer screening: systematic review of test accuracy studies.\n\nGeppert J(1), Asgharzadeh A(2)(3), Brown A(3), Stinton C(1), Helm EJ(4), \nJayakody S(3), Todkill D(3), Gallacher D(3), Ghiasvand H(3)(5), Patel M(3), \nAuguste P(3), Tsertsvadze A(3), Chen YF(6), Grove A(3), Shinkins B(1), Clarke \nA(3), Taylor-Phillips S(7).\n\nAuthor information:\n(1)Warwick Screening & Warwick Evidence, Warwick Medical School, University of \nWarwick, Coventry, UK.\n(2)Population Health Science, University of Bristol, Bristol, UK.\n(3)Warwick Evidence, Warwick Medical School, University of Warwick, Coventry, \nUK.\n(4)Department of Radiology, University Hospitals Coventry and Warwickshire NHS \nTrust, Coventry, UK.\n(5)Research Centre for Healthcare and Communities, Coventry University, \nCoventry, UK.\n(6)Warwick Evidence, Warwick Medical School, University of Warwick, Coventry, UK \nY-F.Chen@warwick.ac.uk.\n(7)Warwick Screening, Warwick Medical School, University of Warwick, Coventry, \nUK.\n\nOBJECTIVES: To examine the accuracy and impact of artificial intelligence (AI) \nsoftware assistance in lung cancer screening using CT.\nMETHODS: A systematic review of CE-marked, AI-based software for automated \ndetection and analysis of nodules in CT lung cancer screening was conducted. \nMultiple databases including Medline, Embase and Cochrane CENTRAL were searched \nfrom 2012 to March 2023. Primary research reporting test accuracy or impact on \nreading time or clinical management was included. QUADAS-2 and QUADAS-C were \nused to assess risk of bias. We undertook narrative synthesis.\nRESULTS: Eleven studies evaluating six different AI-based software and reporting \non 19 770 patients were eligible. All were at high risk of bias with multiple \napplicability concerns. Compared with unaided reading, AI-assisted reading was \nfaster and generally improved sensitivity (+5% to +20% for \ndetecting/categorising actionable nodules; +3% to +15% for \ndetecting/categorising malignant nodules), with lower specificity (-7% to -3% \nfor correctly detecting/categorising people without actionable nodules; -8% to \n-6% for correctly detecting/categorising people without malignant nodules). AI \nassistance tended to increase the proportion of nodules allocated to higher risk \ncategories. Assuming 0.5% cancer prevalence, these results would translate into \nadditional 150-750 cancers detected per million people attending screening but \nlead to an additional 59 700 to 79 600 people attending screening without cancer \nreceiving unnecessary CT surveillance.\nCONCLUSIONS: AI assistance in lung cancer screening may improve sensitivity but \nincreases the number of false-positive results and unnecessary surveillance. \nFuture research needs to increase the specificity of AI-assisted reading and \nminimise risk of bias and applicability concerns through improved study design.\nPROSPERO REGISTRATION NUMBER: CRD42021298449.\n\n\u00a9 Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY. Published \nby BMJ.\n\nDOI: 10.1136/thorax-2024-221662\nPMCID: PMC11503082\nPMID: 39322406 [Indexed for MEDLINE]\n\nConflict of interest statement: Competing interests: All authors have completed \nthe ICMJE uniform disclosure. All authors involved in Warwick Evidence are \nwholly or partly funded by the NIHR. STP and AG are funded by the NIHR on \npersonal fellowships. STP serves as Chair of the UK National Screening Committee \nResearch and Methodology group, but this work is independent research not \nassociated with that role."
+  },
+  "38486402": {
+    "pmid": "38486402",
+    "title": "Opportunities, challenges, and future directions of large language models, including ChatGPT in medical education: a systematic scoping review.",
+    "pubdate": "2024",
+    "epubdate": "2024 Mar 15",
+    "source": "J Educ Eval Health Prof",
+    "authors": [
+      "Xu X",
+      "Chen Y",
+      "Miao J"
+    ],
+    "fulljournalname": "Journal of educational evaluation for health professions",
+    "doi": "10.3352/jeehp.2024.21.6",
+    "pubtype": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "abstract_full": "1. J Educ Eval Health Prof. 2024;21:6. doi: 10.3352/jeehp.2024.21.6. Epub 2024\nMar  15.\n\nOpportunities, challenges, and future directions of large language models, \nincluding ChatGPT in medical education: a systematic scoping review.\n\nXu X(1), Chen Y(1), Miao J(1).\n\nAuthor information:\n(1)Division of Hematology/Oncology, Children\u2019s Hospital, Zhejiang University \nSchool of Medicine, National Clinical Research Centre for Child Health, \nZhejiang, China\n\nBACKGROUND: ChatGPT is a large language model (LLM) based on artificial \nintelligence (AI) capable of responding in multiple languages and generating \nnuanced and highly complex responses. While ChatGPT holds promising applications \nin medical education, its limitations and potential risks cannot be ignored.\nMETHODS: A scoping review was conducted for English articles discussing ChatGPT \nin the context of medical education published after 2022. A literature search \nwas performed using PubMed/MEDLINE, Embase, and Web of Science databases, and \ninformation was extracted from the relevant studies that were ultimately \nincluded.\nRESULTS: ChatGPT exhibits various potential applications in medical education, \nsuch as providing personalized learning plans and materials, creating clinical \npractice simulation scenarios, and assisting in writing articles. However, \nchallenges associated with academic integrity, data accuracy, and potential harm \nto learning were also highlighted in the literature. The paper emphasizes \ncertain recommendations for using ChatGPT, including the establishment of \nguidelines. Based on the review, 3 key research areas were proposed: cultivating \nthe ability of medical students to use ChatGPT correctly, integrating ChatGPT \ninto teaching activities and processes, and proposing standards for the use of \nAI by medical students.\nCONCLUSION: ChatGPT has the potential to transform medical education, but \ncareful consideration is required for its full integration. To harness the full \npotential of ChatGPT in medical education, attention should not only be given to \nthe capabilities of AI but also to its impact on students and teachers.\n\nDOI: 10.3352/jeehp.2024.21.6\nPMCID: PMC11035906\nPMID: 38486402 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflict of interest No potential conflict of \ninterest relevant to this article was reported."
+  },
+  "40279517": {
+    "pmid": "40279517",
+    "title": "Comparing Diagnostic Accuracy of Clinical Professionals and Large Language Models: Systematic Review and Meta-Analysis.",
+    "pubdate": "2025 Apr 25",
+    "epubdate": "2025 Apr 25",
+    "source": "JMIR Med Inform",
+    "authors": [
+      "Shan G",
+      "Chen X",
+      "Wang C",
+      "Liu L",
+      "Gu Y",
+      "Jiang H",
+      "Shi T"
+    ],
+    "fulljournalname": "JMIR medical informatics",
+    "doi": "10.2196/64963",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Comparative Study"
+    ],
+    "abstract_full": "1. JMIR Med Inform. 2025 Apr 25;13:e64963. doi: 10.2196/64963.\n\nComparing Diagnostic Accuracy of Clinical Professionals and Large Language \nModels: Systematic Review and Meta-Analysis.\n\nShan G(1), Chen X(1), Wang C(1), Liu L(2), Gu Y(3), Jiang H(4), Shi T(5).\n\nAuthor information:\n(1)Nanjing Drum Tower Hospital Clinical College of Nanjing University of Chinese \nMedicine, Nanjing, China.\n(2)Jiangsu Province Hospital of Chinese Medicine, Affiliated Hospital of Nanjing \nUniversity of Chinese Medicine, Nanjing, China.\n(3)Department of Emergency, Nanjing Drum Tower Hospital, Nanjing, China.\n(4)Department of Nursing, Nanjing Drum Tower Hospital, Nanjing, China.\n(5)Department of Quality Management, Nanjing Drum Tower Hospital, Affiliated \nHospital of Medical School, Nanjing University, 321 Zhongshan Road, Gulou \nDistrict, Nanjing, 210008, China, 86 1-391-299-6998.\n\nBACKGROUND: With the rapid development of artificial intelligence (AI) \ntechnology, especially generative AI, large language models (LLMs) have shown \ngreat potential in the medical field. Through massive medical data training, it \ncan understand complex medical texts and can quickly analyze medical records and \nprovide health counseling and diagnostic advice directly, especially in rare \ndiseases. However, no study has yet compared and extensively discussed the \ndiagnostic performance of LLMs with that of physicians.\nOBJECTIVE: This study systematically reviewed the accuracy of LLMs in clinical \ndiagnosis and provided reference for further clinical application.\nMETHODS: We conducted searches in CNKI (China National Knowledge \nInfrastructure), VIP Database, SinoMed, PubMed, Web of Science, Embase, and \nCINAHL (Cumulative Index to Nursing and Allied Health Literature) from January \n1, 2017, to the present. A total of 2 reviewers independently screened the \nliterature and extracted relevant information. The risk of bias was assessed \nusing the Prediction Model Risk of Bias Assessment Tool (PROBAST), which \nevaluates both the risk of bias and the applicability of included studies.\nRESULTS: A total of 30 studies involving 19 LLMs and a total of 4762 cases were \nincluded. The quality assessment indicated a high risk of bias in the majority \nof studies, primary cause is known case diagnosis. For the optimal model, the \naccuracy of the primary diagnosis ranged from 25% to 97.8%, while the triage \naccuracy ranged from 66.5% to 98%.\nCONCLUSIONS: LLMs have demonstrated considerable diagnostic capabilities and \nsignificant potential for application across various clinical cases. Although \ntheir accuracy still falls short of that of clinical professionals, if used \ncautiously, they have the potential to become one of the best intelligent \nassistants in the field of human health care.\n\n\u00a9 Guxue Shan, Xiaonan Chen, Chen Wang, Li Liu, Yuanjing Gu, Huiping Jiang, \nTingqi Shi. Originally published in JMIR Medical Informatics \n(https://medinform.jmir.org).\n\nDOI: 10.2196/64963\nPMCID: PMC12047852\nPMID: 40279517 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "39812777": {
+    "pmid": "39812777",
+    "title": "Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines.",
+    "pubdate": "2025 Apr 1",
+    "epubdate": "",
+    "source": "J Am Med Inform Assoc",
+    "authors": [
+      "Liu S",
+      "McCoy AB",
+      "Wright A"
+    ],
+    "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+    "doi": "10.1093/jamia/ocaf008",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "abstract_full": "1. J Am Med Inform Assoc. 2025 Apr 1;32(4):605-615. doi: 10.1093/jamia/ocaf008.\n\nImproving large language model applications in biomedicine with \nretrieval-augmented generation: a systematic review, meta-analysis, and clinical \ndevelopment guidelines.\n\nLiu S(1)(2), McCoy AB(1), Wright A(1)(3).\n\nAuthor information:\n(1)Department of Biomedical Informatics, Vanderbilt University Medical Center, \nNashville, TN 37212, United States.\n(2)Department of Computer Science, Vanderbilt University, Nashville, TN 37212, \nUnited States.\n(3)Department of Medicine, Vanderbilt University Medical Center, Nashville, TN \n37212, United States.\n\nOBJECTIVE: The objectives of this study are to synthesize findings from recent \nresearch of retrieval-augmented generation (RAG) and large language models \n(LLMs) in biomedicine and provide clinical development guidelines to improve \neffectiveness.\nMATERIALS AND METHODS: We conducted a systematic literature review and a \nmeta-analysis. The report was created in adherence to the Preferred Reporting \nItems for Systematic Reviews and Meta-Analyses 2020 analysis. Searches were \nperformed in 3 databases (PubMed, Embase, PsycINFO) using terms related to \n\"retrieval augmented generation\" and \"large language model,\" for articles \npublished in 2023 and 2024. We selected studies that compared baseline LLM \nperformance with RAG performance. We developed a random-effect meta-analysis \nmodel, using odds ratio as the effect size.\nRESULTS: Among 335 studies, 20 were included in this literature review. The \npooled effect size was 1.35, with a 95% confidence interval of 1.19-1.53, \nindicating a statistically significant effect (P\u2009=\u2009.001). We reported clinical \ntasks, baseline LLMs, retrieval sources and strategies, as well as evaluation \nmethods.\nDISCUSSION: Building on our literature review, we developed Guidelines for \nUnified Implementation and Development of Enhanced LLM Applications with RAG in \nClinical Settings to inform clinical applications using RAG.\nCONCLUSION: Overall, RAG implementation showed a 1.35 odds ratio increase in \nperformance compared to baseline LLMs. Future research should focus on (1) \nsystem-level enhancement: the combination of RAG and agent, (2) knowledge-level \nenhancement: deep integration of knowledge into LLM, and (3) integration-level \nenhancement: integrating RAG systems within electronic health records.\n\n\u00a9 The Author(s) 2025. Published by Oxford University Press on behalf of the \nAmerican Medical Informatics Association.\n\nDOI: 10.1093/jamia/ocaf008\nPMCID: PMC12005634\nPMID: 39812777 [Indexed for MEDLINE]\n\nConflict of interest statement: The authors do not have conflicts of interest \nrelated to this study."
+  },
+  "40305085": {
+    "pmid": "40305085",
+    "title": "Accuracy of Large Language Models When Answering Clinical Research Questions: Systematic Review and Network Meta-Analysis.",
+    "pubdate": "2025 Apr 30",
+    "epubdate": "2025 Apr 30",
+    "source": "J Med Internet Res",
+    "authors": [
+      "Wang L",
+      "Li J",
+      "Zhuang B",
+      "Huang S",
+      "Fang M",
+      "Wang C",
+      "Li W",
+      "Zhang M",
+      "Gong S"
+    ],
+    "fulljournalname": "Journal of medical Internet research",
+    "doi": "10.2196/64486",
+    "pubtype": [
+      "Journal Article",
+      "Network Meta-Analysis",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. J Med Internet Res. 2025 Apr 30;27:e64486. doi: 10.2196/64486.\n\nAccuracy of Large Language Models When Answering Clinical Research Questions: \nSystematic Review and Network Meta-Analysis.\n\nWang L(#)(1)(2), Li J(#)(2), Zhuang B(#)(3), Huang S(#)(4), Fang M(#)(2), Wang \nC(2), Li W(1), Zhang M(2), Gong S(5).\n\nAuthor information:\n(1)Fuzhou University Affiliated Provincial Hospital, Shengli Clinical Medical \nCollege, Fujian Medical University, Fuzhou, China.\n(2)School of Pharmacy, Fujian Medical University, Fuzhou, China.\n(3)Fujian Center For Drug Evaluation and Monitoring, Fuzhou, China.\n(4)School of Pharmacy, Fujian University of Traditional Chinese Medicine, \nFuzhou, China.\n(5)The Third Department of Critical Care Medicine, Fuzhou University Affiliated \nProvincial Hospital, Shengli Clinical Medical College, Fujian Medical \nUniversity, Fuzhou, Fujian, China.\n(#)Contributed equally\n\nBACKGROUND: Large language models (LLMs) have flourished and gradually become an \nimportant research and application direction in the medical field. However, due \nto the high degree of specialization, complexity, and specificity of medicine, \nwhich results in extremely high accuracy requirements, controversy remains about \nwhether LLMs can be used in the medical field. More studies have evaluated the \nperformance of various types of LLMs in medicine, but the conclusions are \ninconsistent.\nOBJECTIVE: This study uses a network meta-analysis (NMA) to assess the accuracy \nof LLMs when answering clinical research questions to provide high-level \nevidence-based evidence for its future development and application in the \nmedical field.\nMETHODS: In this systematic review and NMA, we searched PubMed, Embase, Web of \nScience, and Scopus from inception until October 14, 2024. Studies on the \naccuracy of LLMs when answering clinical research questions were included and \nscreened by reading published reports. The systematic review and NMA were \nconducted to compare the accuracy of different LLMs when answering clinical \nresearch questions, including objective questions, open-ended questions, top 1 \ndiagnosis, top 3 diagnosis, top 5 diagnosis, and triage and classification. The \nNMA was performed using Bayesian frequency theory methods. Indirect \nintercomparisons between programs were performed using a grading scale. A larger \nsurface under the cumulative ranking curve (SUCRA) value indicates a higher \nranking of the corresponding LLM accuracy.\nRESULTS: The systematic review and NMA examined 168 articles encompassing 35,896 \nquestions and 3063 clinical cases. Of the 168 studies, 40 (23.8%) were \nconsidered to have a low risk of bias, 128 (76.2%) had a moderate risk, and none \nwere rated as having a high risk. ChatGPT-4o (SUCRA=0.9207) demonstrated strong \nperformance in terms of accuracy for objective questions, followed by \nAeyeconsult (SUCRA=0.9187) and ChatGPT-4 (SUCRA=0.8087). ChatGPT-4 \n(SUCRA=0.8708) excelled at answering open-ended questions. In terms of accuracy \nfor top 1 diagnosis and top 3 diagnosis of clinical cases, human experts \n(SUCRA=0.9001 and SUCRA=0.7126, respectively) ranked the highest, while Claude 3 \nOpus (SUCRA=0.9672) performed well at the top 5 diagnosis. Gemini (SUCRA=0.9649) \nhad the highest rated SUCRA value for accuracy in the area of triage and \nclassification.\nCONCLUSIONS: Our study indicates that ChatGPT-4o has an advantage when answering \nobjective questions. For open-ended questions, ChatGPT-4 may be more credible. \nHumans are more accurate at the top 1 diagnosis and top 3 diagnosis. Claude 3 \nOpus performs better at the top 5 diagnosis, while for triage and \nclassification, Gemini is more advantageous. This analysis offers valuable \ninsights for clinicians and medical practitioners, empowering them to \neffectively leverage LLMs for improved decision-making in learning, diagnosis, \nand management of various clinical scenarios.\nTRIAL REGISTRATION: PROSPERO CRD42024558245; \nhttps://www.crd.york.ac.uk/PROSPERO/view/CRD42024558245.\n\n\u00a9Ling Wang, Jinglin Li, Boyang Zhuang, Shasha Huang, Meilin Fang, Cunze Wang, \nWen Li, Mohan Zhang, Shurong Gong. Originally published in the Journal of \nMedical Internet Research (https://www.jmir.org), 30.04.2025.\n\nDOI: 10.2196/64486\nPMCID: PMC12079073\nPMID: 40305085 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflicts of Interest: None declared."
+  },
+  "40129115": {
+    "pmid": "40129115",
+    "title": "An AI-Enabled Nursing Future With no Documentation Burden: A Vision for a New Reality.",
+    "pubdate": "2026 Jan",
+    "epubdate": "2025 Mar 24",
+    "source": "J Adv Nurs",
+    "authors": [
+      "Michalowski M",
+      "Topaz M",
+      "Peltonen LM"
+    ],
+    "fulljournalname": "Journal of advanced nursing",
+    "doi": "10.1111/jan.16911",
+    "pubtype": [
+      "Consensus Statement",
+      "Journal Article"
+    ],
+    "abstract_full": "1. J Adv Nurs. 2026 Jan;82(1):907-912. doi: 10.1111/jan.16911. Epub 2025 Mar 24.\n\nAn AI-Enabled Nursing Future With no Documentation Burden: A Vision for a New \nReality.\n\nMichalowski M(1), Topaz M(2), Peltonen LM(3).\n\nAuthor information:\n(1)School of Nursing, University of Minnesota, Minneapolis, Minnesota, USA.\n(2)School of Nursing, Columbia University, New York, New York, USA.\n(3)Department of Health and Social Management, University of Eastern Finland, \nWellbeing Services County of North Savo, Kuopio, Finland.\n\nAIMS: To explore the potential of multimodal large language models in \nalleviating the documentation burden on nurses while enhancing the quality and \nefficiency of patient care.\nDESIGN: This position paper is informed by expert discussions and a literature \nreview.\nMETHODS: We extensively reviewed nursing documentation practices and advanced \ntechnologies, such as multimodal large language models. We analysed key \nchallenges, solutions and impacts to propose a futuristic multimodal large \nlanguage model-driven model for nursing documentation.\nRESULTS: Multimodal large language models offer transformative capabilities by \nintegrating multimodal audio, video and text data during patient encounters to \ndynamically update patient records in real time. This reduces manual data entry, \nenabling nurses to focus more on direct patient care. These systems also enhance \ncare personalisation through predictive analytics and interoperability, which \nsupport seamless workflows and better patient outcomes. While predictive \nanalytics could improve patient care by identifying trends and risk factors from \nnursing documentation, further research is required to validate its accuracy and \nclinical utility in real-world settings. Ethical, legal and practical \nchallenges, including privacy concerns and biases in artificial intelligence \nmodels, require careful consideration for successful implementation.\nCONCLUSION: Transitioning to multimodal large language model-driven \ndocumentation systems can significantly reduce administrative burdens, improve \nnurse satisfaction and enhance patient care. However, successful integration \ndemands interdisciplinary collaboration, robust ethical frameworks and \ntechnological advancements.\nIMPLICATIONS FOR THE PROFESSION AND PATIENT CARE: Implementing multimodal large \nlanguage models could alleviate professional burnout, improve nurse-patient \ninteractions, and provide dynamic, up-to-date patient records that facilitate \ninformed decision making. These advancements align with the goals of \npatient-centred care by enabling more meaningful engagement between nurses and \npatients.\nIMPACT: The problem being addressed is the administrative burden of nursing \ndocumentation. We suggest that multimodal large language models minimise manual \ndocumentation, enhance patient care quality and significantly impact nurses and \npatients in diverse healthcare settings globally.\n\n\u00a9 2025 The Author(s). Journal of Advanced Nursing published by John Wiley & Sons \nLtd.\n\nDOI: 10.1111/jan.16911\nPMCID: PMC12721931\nPMID: 40129115 [Indexed for MEDLINE]\n\nConflict of interest statement: The authors declare no conflicts of interest."
+  },
+  "40332983": {
+    "pmid": "40332983",
+    "title": "The emergence of large language models as tools in literature reviews: a large language model-assisted systematic review.",
+    "pubdate": "2025 Jun 1",
+    "epubdate": "",
+    "source": "J Am Med Inform Assoc",
+    "authors": [
+      "Scherbakov D",
+      "Hubig N",
+      "Jansari V",
+      "Bakumenko A",
+      "Lenert LA"
+    ],
+    "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+    "doi": "10.1093/jamia/ocaf063",
+    "pubtype": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "abstract_full": "1. J Am Med Inform Assoc. 2025 Jun 1;32(6):1071-1086. doi: 10.1093/jamia/ocaf063.\n\nThe emergence of large language models as tools in literature reviews: a large \nlanguage model-assisted systematic review.\n\nScherbakov D(1), Hubig N(1)(2), Jansari V(3), Bakumenko A(3), Lenert LA(1).\n\nAuthor information:\n(1)Biomedical Informatics Center, Department of Public Health Sciences, Medical \nUniversity of South Carolina (MUSC), Charleston, SC 29403, United States.\n(2)Interdisciplinary Transformation University, OG 2 A-4040 Linz, Austria.\n(3)School of Computing, Clemson University, Charleston, SC 29634, United States.\n\nOBJECTIVES: This study aims to summarize the usage of large language models \n(LLMs) in the process of creating a scientific review by looking at the \nmethodological papers that describe the use of LLMs in review automation and the \nreview papers that mention they were made with the support of LLMs.\nMATERIALS AND METHODS: The search was conducted in June 2024 in PubMed, Scopus, \nDimensions, and Google Scholar by human reviewers. Screening and extraction \nprocess took place in Covidence with the help of LLM add-on based on the OpenAI \nGPT-4o model. ChatGPT and Scite.ai were used in cleaning the data, generating \nthe code for figures, and drafting the manuscript.\nRESULTS: Of the 3788 articles retrieved, 172 studies were deemed eligible for \nthe final review. ChatGPT and GPT-based LLM emerged as the most dominant \narchitecture for review automation (n\u2009=\u2009126, 73.2%). A significant number of \nreview automation projects were found, but only a limited number of papers \n(n\u2009=\u200926, 15.1%) were actual reviews that acknowledged LLM usage. Most citations \nfocused on the automation of a particular stage of review, such as Searching for \npublications (n\u2009=\u200960, 34.9%) and Data extraction (n\u2009=\u200954, 31.4%). When comparing \nthe pooled performance of GPT-based and BERT-based models, the former was better \nin data extraction with a mean precision of 83.0% (SD\u2009=\u200910.4) and a recall of \n86.0% (SD\u2009=\u20099.8).\nDISCUSSION AND CONCLUSION: Our LLM-assisted systematic review revealed a \nsignificant number of research projects related to review automation using LLMs. \nDespite limitations, such as lower accuracy of extraction for numeric data, we \nanticipate that LLMs will soon change the way scientific reviews are conducted.\n\n\u00a9 The Author(s) 2025. Published by Oxford University Press on behalf of the \nAmerican Medical Informatics Association.\n\nDOI: 10.1093/jamia/ocaf063\nPMCID: PMC12089777\nPMID: 40332983 [Indexed for MEDLINE]\n\nConflict of interest statement: The authors have no competing interests to \ndeclare."
+  }
+}

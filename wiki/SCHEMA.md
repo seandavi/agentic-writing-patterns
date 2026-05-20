@@ -29,6 +29,7 @@ wiki/agentic-writing/        # LLM-maintained wiki (THIS directory)
   entities/                  # Named tools, systems, platforms, people, papers
   concepts/                  # Design patterns, frameworks, gaps, recommendations
   comparisons/               # Side-by-side analyses of 2+ entities or patterns
+  triage/                    # Phase 1 (title/abstract) AI-generated screening decisions pending human review
 ```
 
 ---
@@ -49,6 +50,33 @@ Used when two patterns or tools are in tension and the comparison clarifies trad
 
 ### `methodology` — `methodology.md` is the working-practice document
 How we run *this* lit review. Grounded in PRISMA-trAIce + Agentic AutoSurvey + lessons from the wiki as it grows. Living document; updated as we hit failure modes.
+
+### `triage/` — Phase 1 screening decisions (added 2026-05-20; PRISMA-trAIce M1 deviation disclosure)
+
+Phase 1 (title/abstract sweep) outputs live here, **not** in `sources/`. A triage file records the AI-generated include / exclude / borderline decision for every PMID (or arXiv ID, DOI) in a given search batch, along with the reason. These are decision records — **not** concept pages or source pages. They exist so that:
+
+1. The full R1 audit trail (which AI decisions led to which records being kept vs. dropped) is preserved even for excluded papers, which never get source pages.
+2. Human review (Sean) of the Phase 1 decisions happens via PR review on the triage file before Phase 2 (source-page ingestion) begins.
+3. The triage step is itself the kind of LLM-as-instrument-in-SR pattern this wiki catalogs, so making it explicit and recorded is consistent with the wiki's own thesis.
+
+Frontmatter for a triage file:
+
+```yaml
+---
+type: triage
+phase: 1
+wiki: agentic-writing-patterns
+date: YYYY-MM-DD
+pmid_count: N
+status: awaiting-human-review | human-reviewed | merged
+reviewer: Sean Davis (pending | YYYY-MM-DD)
+search_date: YYYY-MM-DD
+search_source: brief description
+metadata_file: relative path to raw metadata
+---
+```
+
+A triage file is "done" once Sean has reviewed and either signed off or edited the decisions, and the corresponding Phase 2 source pages have been written.
 
 ---
 
