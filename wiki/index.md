@@ -49,10 +49,12 @@
 
 ---
 
-## Triage queue (next session)
+## Triage records
 
-25 PubMed PMIDs from the initial methodology search are queued for triage. Raw metadata saved to job tool-results file (path in `log.md`).
+| File | Date | Phase | Status | Decisions |
+|------|------|-------|--------|-----------|
+| [[phase-1-pmid-2026-05-19]] (`wiki/triage/phase-1-pmid-2026-05-19.md`) | 2026-05-20 | 1 (title/abstract sweep) | awaiting human review | 3 include / 19 exclude / 3 borderline of 25 PMIDs |
 
-PMIDs: 39405325, 40335969, 39903463, 40055694, 40021099, 38462064, 39546795, 39534227, 39651543, 37219445, 38728687, 38801765, 40489764, 40153782, 40373033, 40225559, 38214966, 40540146, 39322406, 38486402, 40279517, 39812777, 40305085, 40129115, 40332983
+Phase 2 (source-page ingestion for the 3 includes, plus any borderlines Sean promotes) begins after PR review on the triage file is complete.
 
 After methodology triage, scope expands to the main lit review (tools, systems, design patterns of agentic scholarly writing).
